@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">✨ Welcome ✨</h1><br>
+<h1>✨ Welcome ✨</h1><br>
 <h2><i>Thank you for visiting My GitHub Profile!</i><h2>
 </div>
 
@@ -42,5 +42,3 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo"  />
   <img width="10" />
 </div>
-
-###
