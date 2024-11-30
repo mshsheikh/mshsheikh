@@ -1,7 +1,4 @@
-<div align="center">
-<h1>✨ Welcome ✨</h1><br>
 <h2><i>Thank you for visiting My GitHub Profile!</i><h2>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -12,7 +9,7 @@
 
 <div align="center">
   <div style="font-size: 24px; font-weight: bold; color: #4CAF50; text-align: center;">
-  <h2>A Passionate Developer Since 2018</h2>
+  <h2><i>A Passionate Developer Since 2018</i></h2>
   </div>
 
 ###
