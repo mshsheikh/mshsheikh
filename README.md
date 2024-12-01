@@ -1,12 +1,7 @@
 <div align="center">
   <h2><i>Thank you for visiting My GitHub Profile!</i></h2>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<br clear="both">
-
-###
+  ###
 
 <div align="center">
   <div style="font-size: 24px; font-weight: bold; color: #4CAF50; text-align: center;">
@@ -40,3 +35,11 @@
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo"  />
   <img width="10" />
 </div>
+
+###
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">
+
