@@ -31,7 +31,6 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo"  />
   <img width="10" />
-</div>
 
 ###
 
@@ -42,3 +41,4 @@
 
   <h2><i>Thank you for visiting My GitHub Profile!</i></h2>
 
+</div>
