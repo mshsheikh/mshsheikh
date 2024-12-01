@@ -1,9 +1,4 @@
 <div align="center">
-  <h2><i>Thank you for visiting My GitHub Profile!</i></h2>
-
-  ###
-
-<div align="center">
   <div style="font-size: 24px; font-weight: bold; color: #4CAF50; text-align: center;">
     <h2><i>A Passionate Developer Since 2018</i></h2>
   </div>
