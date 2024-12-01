@@ -3,6 +3,8 @@
     <h2><i>A Passionate Developer Since 2018</i></h2>
   </div>
 
+<div align="center">
+
   <br clear="both">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
@@ -37,4 +39,6 @@
 </div>
 
 <br clear="both">
+
+  <h2><i>Thank you for visiting My GitHub Profile!</i></h2>
 
