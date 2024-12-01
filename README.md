@@ -39,6 +39,4 @@
 
 <br clear="both">
 
-  <h2><i>Thank you for visiting My GitHub Profile!</i></h2>
-
 </div>
