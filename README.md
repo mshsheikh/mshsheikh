@@ -1,5 +1,7 @@
-#### Welcome to My GitHub Repository  
-### A Passionate Developer Since 2019
+<p align="center">
+  <h4>Welcome to My GitHub Repository</h4>
+  <h3>A Passionate Developer Since 2019</h3>
+</p>
 
 <div align="center">
   <img
