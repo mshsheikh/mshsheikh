@@ -32,6 +32,7 @@
         <h4>Expertise from 2019 - 2022</h4>
         <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop Logo" />
         <img src="https://img.icons8.com/color/48/adobe-dreamweaver.png" height="40" alt="Dreamweaver Logo" />
+<br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery Logo" />
