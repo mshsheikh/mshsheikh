@@ -1,12 +1,5 @@
-# Welcome to My GitHub Repository
-
-![Welcome Text](images/intro-text.svg)
-
+### Welcome to My GitHub Repository
 ## A Passionate Developer Since 2019
-
-![A Passionate Developer Since 2019](images/intro-text.svg) 
-
-
 
 <div align="center">
   <img
