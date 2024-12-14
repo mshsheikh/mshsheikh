@@ -16,15 +16,12 @@
     <tr>
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2024 - Present</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31"
-          alt="typescript logo" style="filter: invert(0);" />
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="31" alt="nodejs logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31"
-          alt="react logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="31"
-          alt="nextjs logo" style="filter: invert(0);" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" style="filter: invert(0);" />
-        <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo" style="filter: invert(0);" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" />
+        <img src="https://cdn.simpleicons.org/figma/F24E1E" height="60" />
       </td>
     </tr>
   </table>
@@ -35,30 +32,22 @@
       <!-- Left Column -->
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2019 - 2022</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="31"
-          alt="Photoshop Logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" height="31"
-          alt="Dreamweaver Logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31"
-          alt="HTML5 Logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31"
-          alt="CSS3 Logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="31"
-          alt="jQuery Logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="PHP Logo"
-          style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31"
-          alt="MySQL Logo" style="filter: invert(0);" />
+<!-- Photoshop and Dreamweaver -->
+<img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="64"/>
+<img src="https://img.icons8.com/color/48/adobe-dreamweaver.png" height="64"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60"/>
+
       </td>
       <!-- Right Column -->
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2022 - 2024</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31"
-          alt="VSCode Logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31"
-          alt="JavaScript Logo" style="filter: invert(0);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31"
-          alt="Python Logo" style="filter: invert(0);" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" />
       </td>
     </tr>
   </table>
