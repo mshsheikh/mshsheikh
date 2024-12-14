@@ -15,12 +15,11 @@
     </text>
     
     <!-- Line 2: A Passionate Developer Since 2019 -->
-        <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="16" font-family="Arial, sans-serif" font-weight="bold">
-          A Passionate Developer Since 2019
-        </text>
-      </svg>
-    </div>
-    
+    <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle" fill="#000000" font-size="16" font-family="Arial, sans-serif" font-weight="bold">
+      A Passionate Developer Since 2019
+    </text>
+  </svg>
+</div>
 
 
 
