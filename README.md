@@ -2,30 +2,26 @@
   <h3><i>A Passionate Developer Since 2019</i></h3>
 </div>
 
-<div align="center">
-  <table style="border: none; width: 100%; table-layout: fixed;">
-    
-      <!-- Left Column -->
-      <td align="center" valign="top" width="50%">
-        <h4>Expertise from 2019 - 2022</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="31" alt="photoshop logo" style="filter: invert(100%);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" height="31" alt="dreamweaver logo" style="filter: invert(100%);" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="31" alt="jquery logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo" />
-      </td>
-    </div>
-      <!-- Right Column -->
-      <td align="center" valign="top" width="50%">
-        <h4>Expertise from 2022 - 2024</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo" />
-      </td>
-    
-  </table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px; text-align: center;">
+  <!-- Left Section -->
+  <div style="flex: 1; min-width: 300px;">
+    <h4>Expertise from 2019 - 2022</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="31" alt="photoshop logo" style="filter: invert(100%); mix-blend-mode: difference;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" height="31" alt="dreamweaver logo" style="filter: invert(100%); mix-blend-mode: difference;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="31" alt="jquery logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo" />
+  </div>
+
+  <!-- Right Section -->
+  <div style="flex: 1; min-width: 300px;">
+    <h4>Expertise from 2022 - 2024</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo" />
+  </div>
 </div>
 
 <div align="center">
@@ -37,7 +33,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo" />
 </div>
-
 
 <div align="center">
   <br />
