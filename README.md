@@ -51,10 +51,10 @@
         <h4>Expertise from 2022 - 2024</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
           alt="VS Code Logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"
-          alt="GitHub Logo" /><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"
+          alt="GitLab Logo" /><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
-          alt="JavaScript Logo" /><br>
+          alt="JavaScript Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"
           alt="Python Logo" />
       </td>
