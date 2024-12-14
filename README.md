@@ -29,7 +29,6 @@
       </td>
     </tr>
   </table>
-  <hr style="border: 1px solid #ccc; margin: 0;">
 
   <!-- Bottom Tables -->
   <table style="border: none; width: 100%; table-layout: fixed;">
