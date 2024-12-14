@@ -16,7 +16,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo" />
       </td>
-
+    </div>
       <!-- Right Column -->
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2022 - 2024</h4>
