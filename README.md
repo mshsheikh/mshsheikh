@@ -36,9 +36,9 @@
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2019 - 2022</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="31"
-          alt="Photoshop Logo" style="filter: invert(1);" />
+          alt="Photoshop Logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" height="31"
-          alt="Dreamweaver Logo" style="filter: invert(1);" />
+          alt="Dreamweaver Logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31"
           alt="HTML5 Logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31"
