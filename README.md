@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <table style="border: none; width: 100%; table-layout: fixed;">
+  <table style="border: none; width: 150%; table-layout: fixed;">
     <tr>
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2024 - Present</h4>
@@ -32,7 +32,7 @@
 
 
 <div align="center">
-  <table style="border: none; width: 100%; table-layout: fixed;">
+  <table style="border: none; width: 150%; table-layout: fixed;">
     <tr>
       <!-- Left Column -->
       <td align="center" valign="top" width="50%">
