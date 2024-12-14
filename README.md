@@ -3,19 +3,22 @@
 </div>
 
 <div align="center">
-  <table>
+  <table style="border: none; width: 100%; table-layout: fixed;">
     <tr>
-      <td align="left" width="50%">
+      <!-- Left Column -->
+      <td align="center" valign="top" width="50%">
         <h4>Expertise from 2019 - 2022</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="31" alt="photoshop logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" height="31" alt="dreamweaver logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="31" alt="photoshop logo" style="filter: invert(0%); /* default for dark text */" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" height="31" alt="dreamweaver logo" style="filter: invert(0%); /* default for dark text */" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="31" alt="jquery logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo" />
       </td>
-      <td align="right" width="50%">
+
+      <!-- Right Column -->
+      <td align="center" valign="top" width="50%">
         <h4>Expertise from 2022 - 2024</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo" />
@@ -34,6 +37,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo" />
 </div>
+
 
 <div align="center">
   <br />
