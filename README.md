@@ -17,11 +17,11 @@
         <h4>Expertise from 2024 - Present</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" />
         <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js Logo" />
+<br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS Logo" />
         <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma Logo" />
-        <br>
       </td>
     </tr>
   </table>
