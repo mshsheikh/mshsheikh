@@ -1,5 +1,4 @@
 <div align="center">
-  <br>
   <h3>A Passionate Developer Since 2019</h3>
 </div>
 
@@ -11,76 +10,56 @@
 
 <br>
 
-<div align="center" style="border: 1px solid #ccc; width: 80%; margin: auto;">
+<div align="center">
   <!-- Top Table -->
-  <table style="border: none; width: 100%; table-layout: fixed;">
+  <table style="width: 100%; table-layout: fixed;">
     <tr>
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2024 - Present</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="31"
-          alt="typescript logo" />
-        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="31" alt="nodejs logo" />
+          alt="typescript logo" style="filter: invert(0);" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="31" alt="nodejs logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31"
-          alt="react logo" />
+          alt="react logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="31"
-          alt="nextjs logo" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" />
-        <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo" />
+          alt="nextjs logo" style="filter: invert(0);" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" style="filter: invert(0);" />
+        <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo" style="filter: invert(0);" />
       </td>
     </tr>
   </table>
 
   <!-- Bottom Tables -->
-  <table style="border: none; width: 100%; table-layout: fixed;">
+  <table style="width: 100%; table-layout: fixed;">
     <tr>
       <!-- Left Column -->
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2019 - 2022</h4>
-        <img class="dynamic-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"
-          height="31" alt="Photoshop Logo" />
-        <img class="dynamic-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg"
-          height="31" alt="Dreamweaver Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="31"
+          alt="Photoshop Logo" style="filter: invert(1);" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" height="31"
+          alt="Dreamweaver Logo" style="filter: invert(1);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31"
-          alt="HTML5 Logo" />
+          alt="HTML5 Logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31"
-          alt="CSS3 Logo" />
+          alt="CSS3 Logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="31"
-          alt="jQuery Logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="PHP Logo" />
+          alt="jQuery Logo" style="filter: invert(0);" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="PHP Logo"
+          style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31"
-          alt="MySQL Logo" />
+          alt="MySQL Logo" style="filter: invert(0);" />
       </td>
       <!-- Right Column -->
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2022 - 2024</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31"
-          alt="VSCode Logo" />
+          alt="VSCode Logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31"
-          alt="JavaScript Logo" />
+          alt="JavaScript Logo" style="filter: invert(0);" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31"
-          alt="Python Logo" />
+          alt="Python Logo" style="filter: invert(0);" />
       </td>
     </tr>
   </table>
 </div>
-
-<!-- CSS for Dynamic Colors -->
-<style>
-  .dynamic-icon {
-    filter: invert(1);
-  }
-
-  @media (prefers-color-scheme: dark) {
-    .dynamic-icon {
-      filter: invert(0);
-    }
-  }
-
-  table {
-    border-collapse: collapse;
-  }
-
-  table td {
-    border: 1px solid #ccc;
-  }
-</style>
