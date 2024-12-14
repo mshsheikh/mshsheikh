@@ -23,6 +23,7 @@
         <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma Logo" />
       </td>
     </tr>
+<br>
   </table>
 
   <table width="100%">
