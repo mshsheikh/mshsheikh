@@ -17,7 +17,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo" />
       </td>
-    </div>
       <!-- Right Column -->
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2022 - 2024</h4>
@@ -38,7 +37,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo" />
 </div>
-
 
 <div align="center">
   <br />
