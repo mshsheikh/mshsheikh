@@ -4,7 +4,6 @@
 </div>
 
 <div align="center">
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     height="150" alt="languages graph" />
@@ -12,8 +11,9 @@
 
 <br>
 
-<div align="center">
-  <table style="border: none; width: 150%; table-layout: fixed;">
+<div align="center" style="border: 1px solid #ccc; width: 80%; margin: auto;">
+  <!-- Top Table -->
+  <table style="border: none; width: 100%; table-layout: fixed;">
     <tr>
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2024 - Present</h4>
@@ -26,21 +26,21 @@
           alt="nextjs logo" />
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="31" alt="tailwindcss logo" />
         <img src="https://cdn.simpleicons.org/figma/F24E1E" height="31" alt="figma logo" />
+      </td>
     </tr>
-    </td>
-</div>
+  </table>
+  <hr style="border: 1px solid #ccc; margin: 0;">
 
-
-<div align="center">
-  <table style="border: none; width: 150%; table-layout: fixed;">
+  <!-- Bottom Tables -->
+  <table style="border: none; width: 100%; table-layout: fixed;">
     <tr>
       <!-- Left Column -->
       <td align="center" valign="top" width="50%">
         <h4>Expertise from 2019 - 2022</h4>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="31"
-          alt="Photoshop Logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg" height="31"
-          alt="Dreamweaver Logo" />
+        <img class="dynamic-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"
+          height="31" alt="Photoshop Logo" />
+        <img class="dynamic-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dreamweaver/dreamweaver-plain.svg"
+          height="31" alt="Dreamweaver Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31"
           alt="HTML5 Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31"
@@ -64,3 +64,24 @@
     </tr>
   </table>
 </div>
+
+<!-- CSS for Dynamic Colors -->
+<style>
+  .dynamic-icon {
+    filter: invert(1);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .dynamic-icon {
+      filter: invert(0);
+    }
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  table td {
+    border: 1px solid #ccc;
+  }
+</style>
