@@ -1,10 +1,8 @@
 <div align="center">
   <h3>Professional Developer Since 2019</h3>
-<div align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
     height="180" alt="GitHub Contribution Graph" />
-</div>
   <p>Coding journey started in 2012 during my school days!</p>
 </div>
 
