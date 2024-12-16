@@ -3,17 +3,11 @@
   <p>Coding journey started in 2012 during my school days!</p>
 </div>
 
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
-    height="180" alt="GitHub Contribution Graph" />
-</div>
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
   <!-- Most Used Programming Languages -->
   <div>
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
       height="150" alt="Most Used Programming Languages Graph" />
   </div>
 
