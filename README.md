@@ -1,17 +1,11 @@
-<h1 align="center">Hello, I'm Sheikh Muhammad Salman Hussain 👨‍💻</h1>
-<p align="center">
+<h1 align="center">Hi, Welcome to My NEW GitHub Profile</h1>
   <em>Started Coding in 2012, Professional Developer Since 2019</em>
-</p>
-
----
 
 <div align="center">
-  <!-- GitHub Most Used Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
     height="150" alt="Most used programming languages graph" />
 
-  <!-- GitHub Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula&hide_border=true" 
     height="150" alt="GitHub Streak Stats" />
@@ -19,9 +13,9 @@
 
 ---
 
-## 🛠️ Timeline & Skills
-
 <div align="center">
+
+## Timeline & Skills
 
 | **Creating Future Tech: 2024 - Present 🔧** | 
 |---------------------------------------------| 
@@ -40,14 +34,13 @@
 ---
 
 <div align="center">
-  <h3>⚡ GitHub Achievements</h3>
-  <!-- GitHub Stats -->
+  <h3>GitHub Achievements</h3>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&count_private=true&theme=dracula&hide_border=true" 
     height="180" alt="GitHub Stats" />
 
-  <!-- Contribution Graph -->
   <img 
-    src="https://activity-graph.herokuapp.com/graph?username=mshsheikh&theme=dracula&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
     height="180" alt="GitHub Contribution Graph" />
+  
 </div>
