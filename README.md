@@ -3,6 +3,8 @@
   <p align="center">Coding journey started in 2012 during my school days!</p>
 </p>
 
+---
+
 <div align="center">
   <h3>GitHub Achievements</h3>
   <img 
@@ -10,7 +12,7 @@
     height="180" alt="GitHub Contribution Graph" />
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
     height="150" alt="Most used programming languages graph" />
