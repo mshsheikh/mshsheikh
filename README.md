@@ -8,22 +8,18 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
     height="180" alt="GitHub Contribution Graph" />
 </div>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
-  <!-- Most Used Programming Languages -->
-  <div>
+  
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
       height="150" alt="Most Used Programming Languages Graph" />
   </div>
 
-  <!-- GitHub Streak Stats -->
-  <div>
+  <div style="display: flex; justify-content: center; align-items: right; gap: 10px; margin-top: 20px;>
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula&hide_border=true" 
       height="150" alt="GitHub Streak Stats" />
   </div>
-</div>
 
 
 ---
