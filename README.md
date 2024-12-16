@@ -6,7 +6,6 @@
 ---
 
 <div align="center">
-  <h3>GitHub Achievements</h3>
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
     height="180" alt="GitHub Contribution Graph" />
