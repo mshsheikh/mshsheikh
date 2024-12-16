@@ -74,7 +74,7 @@
     <tr>
       <td align="center" valign="top" width="50%">
         <h4>School Level from 2012 - 2014</h4>
-          <img src="./assets/Msdos-icon.svg" height="40" alt="MS-DOS Logo" />
+          <img src="./assets/Msdos-icon.png" height="40" alt="MS-DOS Logo" />
       </td>
     </tr>
   </table>
