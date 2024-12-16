@@ -60,4 +60,22 @@
       </td>
     </tr>
   </table>
+  
+  <table width="100%">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <h4>College Level from 2016 - 2018</h4>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"
+          alt="C++ Logo" />
+      </td>
+    </tr>
+  </table>
+  <table width="100%">
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <h4>School Level from 2012 - 2014</h4>
+        <img src="https://img.icons8.com/windows/32/ms-dos.png" height="40" alt="MSDOS Logo" />
+      </td>
+    </tr>
+  </table>
 </div>
