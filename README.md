@@ -32,7 +32,7 @@
   <table width="100%">
     <tr>
       <td align="center" valign="top" width="50%">
-        <h4>Building Cool Projects: 2019 - 2022 💡</h4>
+        <h4>Building Cool Projects: 2019 - 2021</h4>
         <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop Logo" />
         <img src="https://img.icons8.com/color/48/adobe-dreamweaver.png" height="40" alt="Dreamweaver Logo" />
         <br>
@@ -48,7 +48,7 @@
           alt="MySQL Logo" />
       </td>
       <td align="center" valign="top" width="50%">
-        <h4>Learning and Growing: 2022 - 2024 🌟</h4>
+        <h4>Learning and Growing: 2022 - 2023</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"
           alt="VS Code Logo" /><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
@@ -64,7 +64,7 @@
   <table width="100%">
     <tr>
       <td align="center" valign="top" width="50%">
-        <h4>College in ICS: 2016 - 2018 🎓</h4>
+        <h4>College in ICS: 2016 - 2018</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"
           alt="C++ Logo" />
       </td>
@@ -73,7 +73,7 @@
   <table width="100%">
     <tr>
       <td align="center" valign="top" width="50%">
-        <h4>School in Computer Science: 2012 - 2014 📘</h4>
+        <h4>School in Computer Science: 2012 - 2014</h4>
           <img src="https://github.com/mshsheikh/assets/blob/dcb2d85dc0fe6ea45d18a6559b88909dadd7cf55/Msdos-icon.png" height="40" alt="MS-DOS Logo" />
       </td>
     </tr>
