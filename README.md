@@ -1,5 +1,14 @@
-<h1 align="center">Hi, Welcome to My NEW GitHub Profile</h1>
-  <em>Started Coding in 2012, Professional Developer Since 2019</em>
+<p align="center">
+  <h3 align="center">Professional Developer Since 2019</h3>
+  <p align="center">Coding journey started in 2012 during my school days!</p>
+</p>
+
+<div align="center">
+  <h3>GitHub Achievements</h3>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
+    height="180" alt="GitHub Contribution Graph" />
+</div>
 
 <div align="center">
   <img 
@@ -41,8 +50,5 @@
     src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&count_private=true&theme=dracula&hide_border=true" 
     height="180" alt="GitHub Stats" />
 
-  <!-- GitHub Contribution Graph -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
-    height="180" alt="GitHub Contribution Graph" />
 </div>
+
