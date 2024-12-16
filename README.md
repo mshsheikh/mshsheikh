@@ -7,7 +7,6 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  /
   <div>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
