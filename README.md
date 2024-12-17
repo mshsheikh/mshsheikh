@@ -3,15 +3,12 @@
   <p>Coding journey started in 2012 during my school days!</p>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <div>
-  <img 
+    <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
     height="180" alt="GitHub Contribution Graph" /><br>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
       height="150" alt="Most Used Programming Languages Graph" />
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula&hide_border=true" 
-      height="150" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -57,7 +54,7 @@
     </tr>
     <tr>
       <td><b>School in Computer Science: 2012 - 2014</b></td>
-      <td><img src="https://github.com/mshsheikh/assets/blob/dcb2d85dc0fe6ea45d18a6559b88909dadd7cf55/Msdos-icon.png" height="40" alt="MS-DOS Logo" /></td>
+      <td><img src="https://github.com/mshsheikh/assets/blob/dcb2d85dc0fe6ea45d18a6559b88909dadd7cf55/Msdos-icon.svg" height="40" alt="MS-DOS Logo" /></td>
     </tr>
   </table>
 </div>
