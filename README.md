@@ -25,7 +25,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS Logo" />
         <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma Logo" />
-        <img src="https://github.com/mshsheikh/assets/blob/3d71b12a0a7c2787e75b4afdfcdf8dbd4bcf6f0c/S_sanity_red_logo.png" height="40" alt="Sanity.io Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/5a80711d88fb599c4c1b68a47d8bbf449aaf28ed/S_sanity_red_logo.png" height="40" alt="Sanity.io Logo" />
       </td>
     </tr>
     <tr>
