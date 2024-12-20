@@ -46,7 +46,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo" />
-        <img src="https://s.w.org/images/core/wordpress-logo.svg" height="40" alt="WordPress Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/wordpress_logo.png" height="40" alt="WordPress Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/woocommerce_logo.png" height="40" alt="WooCommerce Logo" />
       </td>
     </tr>
     <tr>
