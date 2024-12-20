@@ -41,7 +41,7 @@
     <tr>
       <td><b>Building Cool Projects: 2019 - 2021</b></td>
       <td>
-        <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" height="40" alt="Photoshop Logo" />
+        <img src="https://www.svgrepo.com/show/303177/photoshop-cc-logo.svg" height="40" alt="Photoshop Logo" />
         <img src="https://img.icons8.com/color/48/adobe-dreamweaver.png" height="40" alt="Dreamweaver Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
