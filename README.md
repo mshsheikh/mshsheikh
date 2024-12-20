@@ -39,19 +39,20 @@
       </td>
     </tr>
     <tr>
-      <td><b>Building Cool Projects: 2019 - 2021</b></td>
-      <td>
-        <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/photoshop_cc.svg" height="40" alt="Photoshop Logo" />
-        <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/dreamweaver-cc.png" height="40" alt="Dreamweaver Logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery Logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo" />
-        <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/wordpress_logo.png" height="40" alt="WordPress Logo" />
-        <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/woocommerce_logo.png" height="40" alt="WooCommerce Logo" />
-      </td>
-    </tr>
+      <tr>
+      <td><b>PDIT (Professional Diploma in Information Technology): Oct 2018 - Mar 2019 <br> Building Cool Projects: 2019 - 2021</b></td>
+        <td>
+          <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/photoshop_cc.svg" height="40" alt="Photoshop Logo" />
+          <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/dreamweaver-cc.png" height="40" alt="Dreamweaver Logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery Logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo" />
+          <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/wordpress_logo.png" height="40" alt="WordPress Logo" />
+          <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/woocommerce_logo.png" height="40" alt="WooCommerce Logo" />
+        </td>
+      </tr>
     <tr>
       <td><b>College in ICS: 2016 - 2018</b></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" /></td>
