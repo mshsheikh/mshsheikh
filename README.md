@@ -25,6 +25,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS Logo" />
         <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma Logo" />
+        <img src="https://cdn.simpleicons.org/sanity/FF385C" height="40" alt="Sanity Logo" />
       </td>
     </tr>
     <tr>
