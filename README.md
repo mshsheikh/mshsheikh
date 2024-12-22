@@ -1,5 +1,3 @@
----
-
 <div align="center">
   <img src="https://github.com/mshsheikh/assets/blob/40bc432f92c07268f967b7847a5cd49b31421130/github_welcome_gray_light.png" height="100%" alt="GitHub Welcome" />
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
@@ -77,9 +75,4 @@
   <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
       height="194" alt="GitHub Contribution Graph" />
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mshsheikh&theme=dracula&hide_border=true" 
-    height="140" alt="Contribution Graph" />
 </div>
-
----
