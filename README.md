@@ -4,10 +4,12 @@
   <div>
     <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
-    height="180" alt="GitHub Contribution Graph" /><br>
+    height="120" alt="GitHub Contribution Graph" /><br>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-      height="150" alt="Most Used Programming Languages Graph" />
+      height="140" alt="Most Used Programming Languages Graph" />
+    <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
+      height="140" alt="streak graph"  />      
 </div>
 
 ---
