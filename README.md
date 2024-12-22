@@ -76,3 +76,57 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
       height="194" alt="GitHub Contribution Graph" />
 </div>
+
+---
+<a href="https://skyline.github.com/mshsheikh/2024" target="_blank">
+  <img 
+    src="https://skyline.github.com/mshsheikh/2024.png" 
+    alt="GitHub Skyline 2024" 
+    height="200" />
+</a>
+<img 
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=mshsheikh&theme=dracula&layout=compact" 
+  alt="WakaTime Stats" 
+  height="200" />
+<img 
+  src="https://raw.githubusercontent.com/mshsheikh/mshsheikh/main/assets/contribution-grid.svg" 
+  alt="Isometric Contribution Graph" 
+  height="200" />
+<img 
+  src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true" 
+  alt="Spotify Now Playing" 
+  height="200" />
+<img 
+  src="https://activity-graph.herokuapp.com/graph?username=mshsheikh&bg_color=282a36&color=ff79c6&line=bd93f9&point=ffb86c&area=true&hide_border=true" 
+  alt="GitHub Activity Heatmap" 
+  height="200" />
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" 
+  alt="Dynamic Quote" 
+  height="200" />
+<a href="https://twitter.com/your_twitter_handle">
+  <img 
+    src="https://github-readme-twitter.gazf.vercel.app/api?id=your_twitter_handle" 
+    alt="Twitter Feed" 
+    height="200" />
+</a>
+<img 
+  src="https://readme-jokes.vercel.app/api?theme=dracula" 
+  alt="Programming Jokes" 
+  height="200" />
+<img 
+  src="https://streak-stats.demolab.com/?user=mshsheikh&theme=dracula&hide_border=true" 
+  alt="GitHub Streak Stats" 
+  height="200" />
+<script src="https://gist.github.com/mshsheikh/your_gist_id.js"></script>
+<img 
+  src="https://komarev.com/ghpvc/?username=mshsheikh&style=flat-square&color=blueviolet" 
+  alt="Profile Views Counter" 
+  height="20" />
+<img 
+  src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge" 
+  alt="JavaScript Badge" />
+<img 
+  src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge" 
+  alt="Open Source Badge" />
+
