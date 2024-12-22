@@ -75,16 +75,9 @@
   <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
       height="194" alt="GitHub Contribution Graph" />
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=mshsheikh&theme=dracula&hide_title=false&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" 
+  alt="GitHub Progress Chart" />
 </div>
 
 ---
-
-<img src="https://komarev.com/ghpvc/?username=mshsheikh&style=flat-square&color=blueviolet" alt="Profile Views Counter" />
-<img src="https://streak-stats.demolab.com?user=mshsheikh&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
-<img src="https://activity-graph.herokuapp.com/graph?username=mshsheikh&bg_color=282a36&color=ff79c6&line=bd93f9&point=ffb86c&area=true&hide_border=true" alt="GitHub Activity Graph" />
-<img src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=dracula" alt="GitHub Stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&column=3&margin-w=15" alt="GitHub Trophies" />
-<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Programming Jokes" />
-<a href="https://skyline.github.com/mshsheikh/2024">
-  <img src="https://skyline.github.com/mshsheikh/2024.png" alt="GitHub Skyline 2024" />
-</a>
