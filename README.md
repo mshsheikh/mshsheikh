@@ -72,24 +72,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&count_private=true&theme=dracula&hide_border=true" 
     height="140" alt="GitHub Stats" />
----
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshsheikh&layout=compact&theme=dracula&hide_border=true" 
-  height="140" alt="Top Languages" />
-<img 
-  src="https://streak-stats.demolab.com?user=mshsheikh&theme=dracula&hide_border=true" 
-  height="140" alt="GitHub Streak" />
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15" 
-  height="140" alt="GitHub Trophies" />
-<img 
-  src="https://komarev.com/ghpvc/?username=mshsheikh&label=Profile%20Views&color=blueviolet&style=flat-square" 
-  height="30" alt="Profile Views" />
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mshsheikh&theme=dracula&hide_border=true" 
-  height="140" alt="Contribution Graph" />
-<img 
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" 
-  height="140" alt="Dynamic Quote" />
-
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
+    height="140" alt="Customized GitHub Trophies" />
 </div>
