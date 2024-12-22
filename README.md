@@ -75,4 +75,35 @@
   <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
       height="194" alt="GitHub Contribution Graph" />
+---
+
+<img 
+  src="https://github-profile-achievements.vercel.app/api/achievements?username=mshsheikh&theme=dracula" 
+  height="140" alt="GitHub Achievements" />
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/mshsheikh/mshsheikh/output/github-contribution-grid-snake-dark.svg" 
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/mshsheikh/mshsheikh/output/github-contribution-grid-snake.svg" 
+  />
+  <img 
+    alt="Contribution Snake Animation" 
+    src="https://raw.githubusercontent.com/mshsheikh/mshsheikh/output/github-contribution-grid-snake.svg" 
+  />
+</picture>
+<img 
+  src="https://img.shields.io/badge/Commits-1500+-blueviolet?style=for-the-badge" 
+  alt="Commits" />
+<img 
+  src="https://img.shields.io/badge/Repositories-50+-yellow?style=for-the-badge" 
+  alt="Repositories" />
+<img 
+  src="https://img.shields.io/badge/Stars-300+-red?style=for-the-badge" 
+  alt="Stars" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mshsheikh&theme=dracula&hide_title=false&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" 
+  alt="GitHub Progress Chart" />
 </div>
