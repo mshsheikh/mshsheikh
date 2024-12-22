@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mshsheikh/assets/blob/129cf56e279606d8ef62f6f22e6ec45df56044a7/github_welcome_gray_light.png" height="100%" alt="GitHub Welcome" />
+  <img src="https://github.com/mshsheikh/assets/blob/cd6751659c7e8215f62bc71545024ce2f309a727/github_welcome_gray_light.png" height="100%" alt="GitHub Welcome" />
 <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   <div>
     <img 
