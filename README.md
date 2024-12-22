@@ -69,13 +69,14 @@
 
 <div align="center">
   <h3>GitHub Achievements</h3>
+      <script src="https://gist.github.com/mshsheikh/gist:4d04ec0c931917ebd1d651e260580fb5.js"></script>
   <img 
-    src="src="https://github-profile-achievements.vercel.app/api/achievements?username=mshsheikh&theme=dracula" 
-      height="180" alt="GitHub Stats" />
+      src="https://github-profile-achievements.vercel.app/api/achievements?username=mshsheikh&theme=dracula" 
+        height="180" alt="GitHub Stats" />
   <img 
       src="https://github.com/mshsheikh/assets/blob/21072e3b632241affe4b2c0f8d2a69dc2a7cbfcd/hello_robot_msh.gif" 
         height="180" alt="Robot" /><br>
   <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
-      height="194" alt="GitHub Contribution Graph" />
+        height="194" alt="GitHub Contribution Graph" />
 </div>
