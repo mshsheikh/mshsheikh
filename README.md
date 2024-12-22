@@ -76,8 +76,8 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
       height="194" alt="GitHub Contribution Graph" />
   <img 
-  src="https://github-readme-stats.vercel.app/api?username=mshsheikh&theme=dracula&hide_title=false&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" 
-  alt="GitHub Progress Chart" />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mshsheikh&theme=dracula&hide_border=true" 
+    height="140" alt="Contribution Graph" />
 </div>
 
 ---
