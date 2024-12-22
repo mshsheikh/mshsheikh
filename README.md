@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <tr>
-      <td><b>Built Cool Projects 2019-2021</b><br><b>Completed PDIT Diploma 2018-2019</b></td>
+      <td><b>Built Cool Projects: 2019-2021</b><br><b>Completed PDIT Diploma: 2018-2019</b></td>
         <td>
           <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/photoshop_cc.svg" height="40" alt="Photoshop Logo" />
           <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/dreamweaver-cc.png" height="40" alt="Dreamweaver Logo" />
