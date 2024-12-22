@@ -70,40 +70,13 @@
 <div align="center">
   <h3>GitHub Achievements</h3>
   <img 
+    src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=dracula&hide_border=true" 
+    height="140" alt="GitHub Stats" 
+  />
+  <img 
       src="https://github.com/mshsheikh/assets/blob/8e590ab18c5b27b9143ccf4c091226034b4f7c62/hello_robot_msh.gif" 
         height="200" alt="Robot" /><br>
   <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
         height="194" alt="GitHub Contribution Graph" />
 </div>
-
----
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=dracula&hide_border=true" 
-  height="140" alt="GitHub Stats" 
-/>
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mshsheikh&layout=compact&theme=dracula&hide_border=true" 
-  height="140" alt="Top Languages" 
-/>
-<img 
-  src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=true" 
-  height="140" alt="GitHub Streak" 
-/>
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mshsheikh&bg_color=1a1b27&color=ffffff&line=6a64ff&point=ffffff&area=true&hide_border=true" 
-  height="140" alt="GitHub Activity Graph" 
-/>
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15" 
-  height="140" alt="GitHub Trophies" 
-/>
-<img 
-  src="https://github-profile-achievements.vercel.app/api/achievements?username=mshsheikh&theme=dracula" 
-  height="140" alt="GitHub Achievements" 
-/>
-<img 
-  src="https://metrics.lecoq.io/mshsheikh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKarachi" 
-  height="140" alt="GitHub Metrics" 
-/>
