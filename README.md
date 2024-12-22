@@ -71,5 +71,5 @@
   <h3>GitHub Achievements</h3>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&count_private=true&theme=dracula&hide_border=true" 
-    height="180" alt="GitHub Stats" />
+    height="140" alt="GitHub Stats" />
 </div>
