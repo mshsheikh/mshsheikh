@@ -20,7 +20,7 @@
     <tr>
       <td><b>Creating Future Tech: 2024 - Present</b></td>
       <td>
-        <img src="https://github.com/mshsheikh/assets/blob/aeb85d61c920eef45e64d2ff7e03c535ff2853f4/github_mascots.png" height="40" alt="GitHub Mascots" />
+        <img src="https://github.com/mshsheikh/assets/blob/9c5147f35b4c9d56f5ee3459dbd49ba36ddd884b/github_logo.png" height="40" alt="GitHub Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" />
         <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" />
