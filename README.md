@@ -1,28 +1,29 @@
 <div align="center">
   <img src="https://github.com/mshsheikh/assets/blob/ca747b08021e5ea5ccf6085e19aaaf8b23c8aef2/github_welcome.png" height="100%" alt="GitHub Welcome" />
-<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <div>
-    <img 
-    src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
-    height="140" alt="GitHub Trophies" /><br>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-      height="140" alt="Most Used Programming Languages Graph" />
+  <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+    <div>
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
+        height="140" alt="GitHub Trophies" /><br>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
+        height="140" alt="Most Used Programming Languages Graph" />
+    </div>
   </div>
-</div>
-<div align="center" style="margin-top: 20px;">
-  <a href="https://www.facebook.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Follow" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
-  </a>
-  <a href="https://discord.com/invite/your-server" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
-  </a>
-  <a href="https://www.youtube.com/channel/your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe" />
-  </a>
+  <div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 15px;">
+    <a href="https://www.facebook.com/your-profile" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" alt="LinkedIn" height="40" />
+    </a>
+    <a href="https://discord.com/invite/your-server" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733554.png" alt="Discord" height="40" />
+    </a>
+    <a href="https://www.youtube.com/channel/your-channel" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/733/733646.png" alt="YouTube" height="40" />
+    </a>
+  </div>
 </div>
 
 ---
