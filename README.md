@@ -8,7 +8,8 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
       height="140" alt="Most Used Programming Languages Graph" />
-    <div align="center" style="margin-top: 20px;">
+</div>
+<div align="center" style="margin-top: 20px;">
   <a href="https://www.facebook.com/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Follow" />
   </a>
