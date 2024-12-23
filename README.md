@@ -1,24 +1,15 @@
 <div align="center">
   <img src="https://github.com/mshsheikh/assets/blob/ca747b08021e5ea5ccf6085e19aaaf8b23c8aef2/github_welcome.png" height="100%" alt="GitHub Welcome" />
-  
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <div>
-      <img 
-        src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
-        height="140" alt="GitHub Trophies" /><br>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-        height="140" alt="Most Used Programming Languages Graph" />
-      <br>
-      <img 
-        src="./assets/metrics.plugin.skyline.city.svg" 
-        height="140" alt="GitHub Metrics Graph" />
-      <br>
-      <img 
-        src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" 
-        height="140" alt="GitHub Streak Graph" />
-    </div>
-  </div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div>
+    <img 
+    src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
+    height="140" alt="GitHub Trophies" /><br>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
+      height="140" alt="Most Used Programming Languages Graph" />
+    <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
+      height="140" alt="streak graph"  />      
 </div>
 
 ---
