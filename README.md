@@ -8,6 +8,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
       height="140" alt="Most Used Programming Languages Graph" />
+  </div>
 </div>
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.facebook.com/your-profile" target="_blank">
@@ -23,7 +24,7 @@
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe" />
   </a>
 </div>
-</div>
+
 
 ---
 
