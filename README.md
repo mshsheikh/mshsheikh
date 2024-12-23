@@ -8,7 +8,20 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
       height="140" alt="Most Used Programming Languages Graph" />
-    
+    <div align="center" style="margin-top: 20px;">
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Follow" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Follow" />
+  </a>
+  <a href="https://discord.com/invite/your-server" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+  </a>
+  <a href="https://www.youtube.com/channel/your-channel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribe" />
+  </a>
+</div>
 </div>
 
 ---
