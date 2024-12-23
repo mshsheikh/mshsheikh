@@ -4,11 +4,11 @@
   <div>
     <img 
     src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
-    height="140" alt="Customized GitHub Trophies" /><br>
+    height="140" alt="GitHub Trophies" /><br>
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
       height="140" alt="Most Used Programming Languages Graph" />
-    <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=false&hide_border=true"
+    <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
       height="140" alt="streak graph"  />      
 </div>
 
