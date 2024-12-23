@@ -7,7 +7,7 @@
         height="140" alt="GitHub Trophies" /><br>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-        height="180" alt="Most Used Programming Languages Graph" />
+        height="140" alt="Most Used Programming Languages Graph" />
 </div>
 
 ---
@@ -79,5 +79,5 @@
         height="200" alt="Robot" /><br>
   <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
-        height="196" alt="GitHub Contribution Graph" />
+        height="195" alt="GitHub Contribution Graph" />
 </div>
