@@ -8,8 +8,7 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
       height="140" alt="Most Used Programming Languages Graph" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=mshsheikh&bg_color=1a1b27&color=38bdae&line=ff7551&point=fefefe&area=true&hide_border=true" 
-     height="140" alt="Contribution Graph" />  
+    ![Metrics](https://github.com/mshsheikh/mshsheikh/blob/main/github-metrics.svg)  
 </div>
 
 ---
