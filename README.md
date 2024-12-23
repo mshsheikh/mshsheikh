@@ -40,7 +40,7 @@
       </td>
     </tr>
     <tr style="background-color: #f2f2f2;">
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>Built Cool Projects: 2019-2021</b><br><b>Completed PDIT: 2018-2019</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>Innovate and Create: 2019-2021</b><br><b>Completed PDIT: 2018-2019</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/photoshop_cc.svg" height="40" alt="Photoshop Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/dreamweaver-cc.png" height="40" alt="Dreamweaver Logo" />
