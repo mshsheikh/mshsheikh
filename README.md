@@ -8,7 +8,8 @@
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
       height="140" alt="Most Used Programming Languages Graph" />
-    ![Metrics](https://github.com/mshsheikh/mshsheikh/blob/main/github-metrics.svg)  
+    <img src="https://img.shields.io/badge/Streak-100%2B-green?style=for-the-badge" 
+     alt="Custom Streak Badge" />
 </div>
 
 ---
