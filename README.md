@@ -7,23 +7,7 @@
         height="140" alt="GitHub Trophies" /><br>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-        height="140" alt="Most Used Programming Languages Graph" />
-    </div>
-  </div>
-  <div align="center" style="margin-top: 20px; display: flex; justify-content: center; gap: 15px;">
-    <a href="https://www.facebook.com/your-profile" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733561.png" alt="LinkedIn" height="40" />
-    </a>
-    <a href="https://discord.com/invite/your-server" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733554.png" alt="Discord" height="40" />
-    </a>
-    <a href="https://www.youtube.com/channel/your-channel" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/733/733646.png" alt="YouTube" height="40" />
-    </a>
-  </div>
+        height="180" alt="Most Used Programming Languages Graph" />
 </div>
 
 ---
@@ -95,5 +79,5 @@
         height="200" alt="Robot" /><br>
   <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
-        height="194" alt="GitHub Contribution Graph" />
+        height="196" alt="GitHub Contribution Graph" />
 </div>
