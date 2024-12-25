@@ -14,56 +14,57 @@
 
 <div align="center">
   <h3>Timeline & Skills</h3>
-<table style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif;">
-  <tr style="background-color: #fd2727;"> <!-- Color: #fd2727 -->
-    <td style="padding: 10px; border: 1px solid #ddd; background-color: #fd2727;"><b>School in Computer Science: 2012 - 2014</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github.com/mshsheikh/assets/blob/dcb2d85dc0fe6ea45d18a6559b88909dadd7cf55/Msdos-icon.svg" height="40" alt="MS-DOS Logo" />
-    </td>
-  </tr>
-  <tr style="background-color: #ffae29;"> <!-- Color: #ffae29 -->
-    <td style="padding: 10px; border: 1px solid #ddd; background-color: #ffae29;"><b>College in ICS: 2016 - 2018</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
-    </td>
-  </tr>
-  <tr style="background-color: #f3ff2d;"> <!-- Color: #f3ff2d -->
-    <td style="padding: 10px; border: 1px solid #ddd; background-color: #f3ff2d;"><b>Innovate and Create: 2019-2021</b><br><b>Completed PDIT: 2018-2019</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/photoshop_cc.svg" height="40" alt="Photoshop Logo" />
-      <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/dreamweaver-cc.png" height="40" alt="Dreamweaver Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo" />
-      <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/wordpress_logo.png" height="40" alt="WordPress Logo" />
-      <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/woocommerce_logo.png" height="40" alt="WooCommerce Logo" />
-    </td>
-  </tr>
-  <tr style="background-color: #4fff3b;"> <!-- Color: #4fff3b -->
-    <td style="padding: 10px; border: 1px solid #ddd; background-color: #4fff3b;"><b>Learning and Growing: 2022 - 2023</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab Logo" />
-    </td>
-  </tr>
-  <tr style="background-color: #40abff;"> <!-- Color: #40abff -->
-    <td style="padding: 10px; border: 1px solid #ddd; background-color: #40abff;"><b>Creating Future Tech: 2024 - Present</b></td>
-    <td style="padding: 10px; border: 1px solid #ddd;">
-      <img src="https://github.com/mshsheikh/assets/blob/9c5147f35b4c9d56f5ee3459dbd49ba36ddd884b/github_logo.png" height="40" alt="GitHub Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" />
-      <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
-      <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS Logo" />
-      <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma Logo" />
-      <img src="https://github.com/mshsheikh/assets/blob/5a80711d88fb599c4c1b68a47d8bbf449aaf28ed/S_sanity_red_logo.png" height="40" alt="Sanity.io Logo" />
-    </td>
-  </tr>
-</table>
+  <table style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif;">
+    <tr style="background-color: #f2f2f2;">
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>Creating Future Tech: 2024 - Present</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <img src="https://github.com/mshsheikh/assets/blob/9c5147f35b4c9d56f5ee3459dbd49ba36ddd884b/github_logo.png" height="40" alt="GitHub Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" />
+        <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS Logo" />
+        <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/5a80711d88fb599c4c1b68a47d8bbf449aaf28ed/S_sanity_red_logo.png" height="40" alt="Sanity.io Logo" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>Learning and Growing: 2022 - 2023</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab Logo" />
+      </td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>Innovate and Create: 2019-2021</b><br><b>Completed PDIT: 2018-2019</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/photoshop_cc.svg" height="40" alt="Photoshop Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/dreamweaver-cc.png" height="40" alt="Dreamweaver Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP Logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/wordpress_logo.png" height="40" alt="WordPress Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/7098928bbf8b97200e8456cdd6910e29a127b6ce/woocommerce_logo.png" height="40" alt="WooCommerce Logo" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>College in ICS: 2016 - 2018</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
+      </td>
+    </tr>
+    <tr style="background-color: #f2f2f2;">
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>School in Computer Science: 2012 - 2014</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <img src="https://github.com/mshsheikh/assets/blob/dcb2d85dc0fe6ea45d18a6559b88909dadd7cf55/Msdos-icon.svg" height="40" alt="MS-DOS Logo" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
