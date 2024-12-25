@@ -81,3 +81,28 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
         height="195" alt="GitHub Contribution Graph" />
 </div>
+
+---
+
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=true" 
+    height="140" alt="Most Used Programming Languages Graph" />
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
+    height="140" alt="Most Used Programming Languages Graph" />
+<div style="text-align: center; margin: 20px;">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=true" 
+        height="140" alt="Most Used Programming Languages Graph" />
+</div>
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
+    height="140" style="border-radius: 10px;" alt="Most Used Programming Languages Graph" />
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
+    height="140" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" alt="Most Used Programming Languages Graph" />
+<a href="https://github.com/mshsheikh" target="_blank">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=true" 
+        height="140" alt="Most Used Programming Languages Graph" />
+</a>
