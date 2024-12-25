@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: white; color: grey; font-family: Arial, sans-serif;">
   <img src="https://github.com/mshsheikh/assets/blob/ca747b08021e5ea5ccf6085e19aaaf8b23c8aef2/github_welcome.png" height="100%" alt="GitHub Welcome" />
   <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
     <div>
@@ -8,12 +8,14 @@
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
         height="140" alt="Most Used Programming Languages Graph" />
+    </div>
+  </div>
 </div>
 
 ---
 
-<div align="center">
-  <h3>Timeline & Skills</h3>
+<div align="center" style="background-color: white; color: grey; font-family: Arial, sans-serif;">
+  <h3 style="color: blue;">Timeline & Skills</h3>
   <table style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif;">
     <tr style="background-color: #f2f2f2;">
       <td style="padding: 10px; border: 1px solid #ddd;"><b>Creating Future Tech: 2024 - Present</b></td>
@@ -68,8 +70,8 @@
 
 ---
 
-<div align="center">
-  <h3>GitHub Achievements</h3>
+<div align="center" style="background-color: white; color: grey; font-family: Arial, sans-serif;">
+  <h3 style="color: blue;">GitHub Achievements</h3>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=dracula&hide_border=true" 
     height="180" alt="GitHub Stats" 
@@ -81,28 +83,3 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
         height="195" alt="GitHub Contribution Graph" />
 </div>
-
----
-
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=true" 
-    height="140" alt="Most Used Programming Languages Graph" />
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-    height="140" alt="Most Used Programming Languages Graph" />
-<div style="text-align: center; margin: 20px;">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=true" 
-        height="140" alt="Most Used Programming Languages Graph" />
-</div>
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-    height="140" style="border-radius: 10px;" alt="Most Used Programming Languages Graph" />
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-    height="140" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" alt="Most Used Programming Languages Graph" />
-<a href="https://github.com/mshsheikh" target="_blank">
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=true" 
-        height="140" alt="Most Used Programming Languages Graph" />
-</a>
