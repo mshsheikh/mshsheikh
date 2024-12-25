@@ -77,11 +77,11 @@
   <h3>GitHub Achievements</h3>
   <img 
       src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=transparent&text_color=000000&bg_color=FFFFFF&hide_border=true" 
-      height="180" alt="GitHub Stats" />
+      height="160" alt="GitHub Stats" />
   <img 
       src="https://github.com/mshsheikh/assets/blob/96638a04ba2f766f7175312ac0ed29c336238492/hello_robot_msh.gif" 
         height="200" alt="Robot" /><br>
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
-    height="195" alt="GitHub Contribution Graph" />
+    height="185" alt="GitHub Contribution Graph" />
 </div>
