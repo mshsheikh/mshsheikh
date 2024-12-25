@@ -83,6 +83,6 @@
       src="https://github.com/mshsheikh/assets/blob/96638a04ba2f766f7175312ac0ed29c336238492/hello_robot_msh.gif" 
         height="200" alt="Robot" /><br>
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github_dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
     height="195" alt="GitHub Contribution Graph" />
 </div>
