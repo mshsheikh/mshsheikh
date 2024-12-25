@@ -7,13 +7,10 @@
         style="background: white; filter: brightness(1.2) sepia(1) hue-rotate(-45deg) saturate(3);" 
         height="140" alt="GitHub Trophies" /><br>
       <img 
-        src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
-        height="140" alt="GitHub Trophies" /><br>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&text_color=FF7F50&bg_color=FFFFFF&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&text_color=000000&bg_color=FFFFFF&hide_border=true" 
         height="160" alt="Most Used Programming Languages Graph" />
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=transparent&text_color=FF7F50&bg_color=FFFFFF&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=transparent&text_color=000000&bg_color=FFFFFF&hide_border=true" 
         height="160" alt="GitHub Stats" />
     </div>
   </div>
