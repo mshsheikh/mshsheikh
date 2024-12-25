@@ -86,3 +86,31 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
     height="195" alt="GitHub Contribution Graph" />
 </div>
+
+---
+
+<img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
+    height="250" width="400" alt="GitHub Contribution Graph" />
+<div style="text-align: center; margin: 20px;">
+    <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
+        height="195" alt="GitHub Contribution Graph" />
+</div>
+<img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
+    style="max-width: 100%; height: auto;" alt="GitHub Contribution Graph" />
+<img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
+    height="195" alt="GitHub Contribution Graph" />
+<a href="https://github.com/mshsheikh" target="_blank">
+    <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
+        height="195" alt="GitHub Contribution Graph" />
+</a>
+<img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
+    height="195" style="border-radius: 10px;" alt="GitHub Contribution Graph" />
+<img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=github" 
+    height="195" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" alt="GitHub Contribution Graph" />
