@@ -3,7 +3,8 @@
   <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
     <div>
       <img 
-        src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=onestar&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
+        src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=flat&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
+        style="background: white; filter: brightness(1.2) sepia(1) hue-rotate(-45deg) saturate(3);" 
         height="140" alt="GitHub Trophies" /><br>
       <img 
         src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
