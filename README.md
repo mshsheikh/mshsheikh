@@ -75,13 +75,13 @@
 <div align="center">
   <h3>GitHub Achievements</h3>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=mshsheikh&show_icons=true&theme=highcontrast&hide_border=true" 
     height="180" alt="GitHub Stats" 
   />
   <img 
       src="https://github.com/mshsheikh/assets/blob/96638a04ba2f766f7175312ac0ed29c336238492/hello_robot_msh.gif" 
         height="200" alt="Robot" /><br>
   <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=highcontrast" 
         height="195" alt="GitHub Contribution Graph" />
 </div>
