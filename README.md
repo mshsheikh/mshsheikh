@@ -12,7 +12,7 @@
         height="140px" alt="GitHub Thug Life" />
       <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
         height="140" alt="Streak Graph" /><br><br>
-      <img src="https://img.shields.io/badge/Gmail-c5221f?style=for-the-badge&logo=gmail&logoColor=white"
+      <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white"
         height="25px" alt="Gmail" />
       <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
         height="25px" alt="LinkedIn" />
