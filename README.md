@@ -37,7 +37,7 @@
     </div> -->
       <div style="display: flex; gap: 8px; align-items: center;">
       <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img xmlns="https://github.com/mshsheikh/assets/blob/f19d58b35dc7d2cfd6cfeb76d0c907ebdb22fffa/Social%20Buttons/Gmail_button.svg" height="24" width="24" fill="#EA4335" viewBox="0 0 24 24">
+        <img xmlns="https://github.com/mshsheikh/assets/blob/f19d58b35dc7d2cfd6cfeb76d0c907ebdb22fffa/Social%20Buttons/Gmail_button.svg" height="24" width="24">
       </a>
       <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; box-shadow: none; border: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
