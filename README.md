@@ -81,5 +81,5 @@
         height="200" alt="Robot" /><br>
   <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
-        height="195" alt="GitHub Contribution Graph" />
+        height="194" alt="GitHub Contribution Graph" />
 </div>
