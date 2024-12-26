@@ -12,17 +12,17 @@
         height="140px" alt="GitHub Thug Life" />
       <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
         height="140" alt="Streak Graph" /><br><br>
-      <img src="https://img.shields.io/badge/Gmail-D14836-25d366?style=for-the-badge&logo=gmail&logoColor=white"
+      <img src="https://img.shields.io/badge/Gmail-c5221f?style=for-the-badge&logo=gmail&logoColor=white"
         height="25px" alt="Gmail" />
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
         height="25px" alt="LinkedIn" />
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white"
         height="25px" alt="Discord" />   
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+      <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"
         height="25px" alt="YouTube" />
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+      <img src="https://img.shields.io/badge/Facebook-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white"
         height="25px" alt="Facebook" />
-      <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"
+      <img src="https://img.shields.io/badge/Snapchat-fffc00?style=for-the-badge&logo=snapchat&logoColor=black"
         height="25px" alt="SnapChat" />
       <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"
         height="25px" alt="WhatsApp" />
