@@ -37,8 +37,8 @@
     </div> -->
       <div style="display: flex; gap: 8px; align-items: center;">
       <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
-        <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" fill="#EA4335" viewBox="0 0 24 24">
-          <path d="M12 13.2L2 6v12h20V6l-10 7.2zm0-2L22 6H2l10 5.2z" />
+        <svg xmlns="https://github.com/mshsheikh/assets/blob/f19d58b35dc7d2cfd6cfeb76d0c907ebdb22fffa/Social%20Buttons/Gmail_button.svg" height="24" width="24" fill="#EA4335" viewBox="0 0 24 24">
+          <!-- <path d="M12 13.2L2 6v12h20V6l-10 7.2zm0-2L22 6H2l10 5.2z" /> -->
         </svg>
       </a>
       <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; box-shadow: none; border: none;">
