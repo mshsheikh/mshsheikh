@@ -12,25 +12,25 @@
         height="140px" alt="GitHub Thug Life" />
       <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
         height="140" alt="Streak Graph" /><br><br>
-      <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
+      <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail" />
       </a>
-      <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
       </a>
-      <a href="https://discord.gg/your-server-link" target="_blank" rel="noopener noreferrer">
+      <a href="https://discord.gg/your-server-link" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" height="25px" alt="Discord" />
       </a>
-      <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" alt="YouTube" />
       </a>
-      <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Facebook-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="25px" alt="Facebook" />
       </a>
-      <a href="https://www.snapchat.com/add/magiciansheikh" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.snapchat.com/add/magiciansheikh" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Snapchat-fffc00?style=for-the-badge&logo=snapchat&logoColor=black" height="25px" alt="SnapChat" />
       </a>
-      <a href="https://wa.me/+923427837016" target="_blank" rel="noopener noreferrer">
+      <a href="https://wa.me/+923427837016" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px" alt="WhatsApp" />
       </a>
 </div>
