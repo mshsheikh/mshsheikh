@@ -13,7 +13,7 @@
       <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
         height="140" alt="Streak Graph" /><br>
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        height="20px" alt="Gmail" />
+        height="25px" alt="Gmail" />
       <img src=""
         height="10px" alt="LinkedIn" />
       <img src=""
