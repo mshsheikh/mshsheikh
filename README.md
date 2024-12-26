@@ -15,7 +15,7 @@
       <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail" />
       </a>
-      <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/mshsheikh" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
       </a>
       <a href="https://discord.gg/your-server-link" target="_blank" rel="noopener noreferrer">
