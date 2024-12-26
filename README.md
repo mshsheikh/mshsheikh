@@ -35,6 +35,31 @@
         <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px" alt="WhatsApp" />
       </a>
     </div> -->
+      <div style="display: flex; gap: 8px; align-items: center;">
+      <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
+        <svg xmlns="http://www.w3.org/2000/svg" height="24" width="24" fill="#EA4335" viewBox="0 0 24 24">
+          <path d="M12 13.2L2 6v12h20V6l-10 7.2zm0-2L22 6H2l10 5.2z" />
+        </svg>
+      </a>
+      <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; box-shadow: none; border: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
+      </a>
+      <a href="https://discord.gg/your-server-link" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; box-shadow: none; border: none;">
+        <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" height="25px" alt="Discord" />
+      </a>
+      <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; box-shadow: none; border: none;">
+        <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" alt="YouTube" />
+      </a>
+      <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; box-shadow: none; border: none;">
+        <img src="https://img.shields.io/badge/Facebook-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="25px" alt="Facebook" />
+      </a>
+      <a href="https://www.snapchat.com/add/magiciansheikh" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; box-shadow: none; border: none;">
+        <img src="https://img.shields.io/badge/Snapchat-fffc00?style=for-the-badge&logo=snapchat&logoColor=black" height="25px" alt="SnapChat" />
+      </a>
+      <a href="https://wa.me/+923427837016" target="_blank" rel="noopener noreferrer" style="text-decoration: none; outline: none; box-shadow: none; border: none;">
+        <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px" alt="WhatsApp" />
+      </a>
+    </div>
 </div>
 
 ---
