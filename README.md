@@ -8,6 +8,7 @@
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
         height="140" alt="Most Used Programming Languages Graph" />
+      <img src="" height="40" alt="GitHub Thug Life" />
       <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
         height="140" alt="Streak Graph" />
 </div>
