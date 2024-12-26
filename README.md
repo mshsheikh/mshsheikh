@@ -12,8 +12,6 @@
         height="140px" alt="GitHub Thug Life" />
       <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5"
         height="140" alt="Streak Graph" /><br>
-      <div align="center">
-      <h3>Connect with Me</h3>
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         height="25px" alt="Gmail" />
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -26,7 +24,6 @@
         height="25px" alt="Facebook" />
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
         height="25px" alt="WhatsApp" />
-      </div>
 </div>
 
 ---
