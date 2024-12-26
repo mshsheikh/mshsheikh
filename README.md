@@ -24,7 +24,7 @@
         height="25px" alt="Facebook" />
       <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black"
         height="25px" alt="SnapChat" />
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      <img src="https://img.shields.io/badge/WhatsApp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white"
         height="25px" alt="WhatsApp" />
 </div>
 
