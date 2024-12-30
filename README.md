@@ -110,5 +110,6 @@
 </div>
 
 ---
-
-<b>With Great Power</b> <img src="https://github.com/mshsheikh/assets/blob/e1b026b678ee8e5b9454ec2d0eefa2886a352269/kali-circle-white-logo.png" height="40" alt="Kali Linux Logo" /> <b>Comes Great Responsibility</b>
+<img src="https://cdn.simpleicons.org/kalilinux/268BFF" height="40" alt="Kali Linux Logo Blue" /><br>
+<b>With Great Power</b><br>
+<b>Comes Great Responsibility</b>
