@@ -111,5 +111,5 @@
 
 ---
 
-With Great Power Comes Great Responsibility<br>
 <img src="https://cdn.simpleicons.org/kalilinux/268BFF" height="40" alt="Kali Linux Logo Blue" /><br>
+With <b>Great Power</b> Comes <b>Great Responsibility</b>
