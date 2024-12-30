@@ -111,4 +111,4 @@
 
 ---
 
-<b>With Great Power <img src="https://github.com/mshsheikh/assets/blob/acbe7f584876924fa239255c6ec9b83c36416168/kali-logo.svg" height="40" alt="Kali Linux Logo" /> Comes Great Responsibility</b>
+<img src="https://cdn.simpleicons.org/kalilinux/268BFF" height="40" alt="Kali Linux Logo Blue" /><b>With Great Power</b><br><b>Comes Great Responsibility</b>
