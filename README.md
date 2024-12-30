@@ -19,7 +19,7 @@
       <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
       </a>
-      <a href="https://discord.gg/your-server-link" target="_blank" rel="noopener noreferrer">
+      <a href="https://discordapp.com/user/1228891042787627070" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" height="25px" alt="Discord" />
       </a>
       <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
@@ -108,3 +108,5 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mshsheikh&theme=dracula" 
         height="194" alt="GitHub Contribution Graph" />
 </div>
+
+---
