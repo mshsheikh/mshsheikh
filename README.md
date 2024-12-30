@@ -110,3 +110,5 @@
 </div>
 
 ---
+
+With Great Power <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" alt="Kali Linux Logo" /> Comes Great Responsibility
