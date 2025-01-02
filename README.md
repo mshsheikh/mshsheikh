@@ -48,11 +48,13 @@
         <img src="https://github.com/mshsheikh/assets/blob/9c5147f35b4c9d56f5ee3459dbd49ba36ddd884b/github_logo.png" height="40" alt="GitHub Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" />
         <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/fc26855747e1d5c5dd7bf587a84fcb71f3851806/npm-logo.png" height="40" alt="NPM Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS Logo" />
         <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/5a80711d88fb599c4c1b68a47d8bbf449aaf28ed/S_sanity_red_logo.png" height="40" alt="Sanity.io Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/fc26855747e1d5c5dd7bf587a84fcb71f3851806/groq-logo.png" height="40" alt="Groq Logo" />
       </td>
     </tr>
     <tr>
