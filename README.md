@@ -53,7 +53,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS Logo" />
         <!-- <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="Figma Logo" /><br> -->
-        <img src="https://github.com/mshsheikh/assets/blob/cde17537754ff43fe4d77768b85cf1822a670a23/figma-logo.webp" height="40" alt="Figma Logo" /><br>
+        <img src="https://github.com/mshsheikh/assets/blob/cde17537754ff43fe4d77768b85cf1822a670a23/figma-logo.webp" height="40" alt="Figma Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/5a80711d88fb599c4c1b68a47d8bbf449aaf28ed/S_sanity_red_logo.png" height="40" alt="Sanity.io Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/fc26855747e1d5c5dd7bf587a84fcb71f3851806/groq-logo.png" height="40" alt="Groq Logo" />
       </td>
