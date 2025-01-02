@@ -48,7 +48,7 @@
         <img src="https://github.com/mshsheikh/assets/blob/9c5147f35b4c9d56f5ee3459dbd49ba36ddd884b/github_logo.png" height="40" alt="GitHub Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript Logo" />
         <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js Logo" />
-        <img src="https://github.com/mshsheikh/assets/blob/8f5c8229f53ea53ab1bb6f2f8a728336d993373c/npm-blank-border-logo.png" height="20" alt="NPM Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/8f5c8229f53ea53ab1bb6f2f8a728336d993373c/npm-blank-border-logo.png" height="40" alt="NPM Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js Logo" />
         <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS Logo" />
