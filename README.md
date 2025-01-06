@@ -119,12 +119,18 @@ With <b>Great Power</b> Comes <b>Great Responsibility</b>
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Code%20Reviews,Stars,Contributed%20Repos" height="140" alt="GitHub Trophies" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Streak,Commit,Fork" height="140" alt="GitHub Trophies" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=First%20Pull%20Request,First%20Issue,First%20Repository" height="140" alt="GitHub Trophies" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Contribution%20streak,PRs,Commits" height="140" alt="GitHub Trophies" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=4&title=Contributions,PR%20Merged,Issues%20Closed,Repositories" height="140" alt="GitHub Trophies" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=4&title=Repositories,Contributed%20Repositories,Stars,Forks" height="140" alt="GitHub Trophies" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Stars,Forks,Contributed%20Repositories" height="140" alt="GitHub Trophies" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=4&title=Commits,Pull%20Requests,Issues,Repositories" height="140" alt="GitHub Trophies" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" height="140" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Open%20Source%20Contributions" height="140" alt="GitHub Open Source Contributions Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Contributors,Stars" height="140" alt="GitHub Contributors & Stars Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Activity%20Level" height="140" alt="GitHub Activity Level Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Streak" height="140" alt="GitHub Streak Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Forked%20Repositories" height="140" alt="GitHub Forked Repositories Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commit%20Activity" height="140" alt="GitHub Commit Activity Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Contributed%20Repositories" height="140" alt="GitHub Contributed Repositories Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Public%20Repositories" height="140" alt="GitHub Public Repositories Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Popular%20Repositories" height="140" alt="GitHub Popular Repositories Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=First%20Repository" height="140" alt="GitHub First Repository Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Issues%20Closed" height="140" alt="GitHub Issues Closed Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Pull%20Requests%20Merged" height="140" alt="GitHub Pull Requests Merged Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Top%20Languages" height="140" alt="GitHub Top Languages Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Contributors" height="140" alt="GitHub Contributors Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Followers" height="140" alt="GitHub Followers Trophy" />
