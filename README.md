@@ -8,6 +8,9 @@
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
         height="140" alt="Most Used Programming Languages Graph" />
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&layout=pie&langs_count=5&theme=dracula&hide_border=true" 
+        height="140" alt="Most Used Programming Languages Graph" />
       <img src="https://github.com/mshsheikh/assets/blob/5693ef2ea3386fa336a656a7ec4a5987c5668898/github_thug_life.png"
         height="140px" alt="GitHub Thug Life" />
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula"
@@ -116,11 +119,3 @@
 
 <img src="https://cdn.simpleicons.org/kalilinux/268BFF" height="40" alt="Kali Linux Logo Blue" /><br>
 With <b>Great Power</b> Comes <b>Great Responsibility</b>
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&layout=pie&langs_count=5&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=true&card_width=320)
-![Streak Progress](https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Contributed','Not Contributed'],datasets:[{data:[80,20],backgroundColor:['#2b8a3e','#444'],borderWidth:0}]}},options:{responsive:true,plugins:{legend:{display:false},tooltip:{enabled:false}}})
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&layout=pie&langs_count=5&theme=dracula&hide_border=true&card_width=320)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&theme=dracula&hide_border=true&langs_count=5&layout=pie&card_width=320)
