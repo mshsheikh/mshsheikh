@@ -11,7 +11,7 @@
       <img src="https://github.com/mshsheikh/assets/blob/5693ef2ea3386fa336a656a7ec4a5987c5668898/github_thug_life.png"
         height="140px" alt="GitHub Thug Life" />
       <img src="https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula"
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula&hide_border=false&border_radius=5"
         height="140" alt="Streak Graph" /><br><br>
       <div style="display: flex; gap: 8px; align-items: center;">
       <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
