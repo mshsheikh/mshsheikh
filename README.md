@@ -1,39 +1,40 @@
 <div align="center">
   <img src="https://github.com/mshsheikh/assets/blob/ca747b08021e5ea5ccf6085e19aaaf8b23c8aef2/github_welcome.png" height="100%" alt="GitHub Welcome" /><br>
-  <div style="display: flex; justify-content: center; margin-top: 20px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=6&title=Commits,Stars,Repositories,Followers" height="140" alt="GitHub Trophies" />
-  </div>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=6&title=Commits,Stars,Repositories,Followers" height="140" alt="GitHub Trophies" /><br><br>
+
   <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" 
-        height="140" alt="Most Used Programming Languages Graph" />
-      <img src="https://github.com/mshsheikh/assets/blob/5693ef2ea3386fa336a656a7ec4a5987c5668898/github_thug_life.png"
-        height="140px" alt="GitHub Thug Life" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula"
-        height="140" alt="Streak Graph" /><br><br>   
-      <div style="display: flex; gap: 8px; align-items: center;">
-        <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail" />
-        </a>
-        <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
-        </a>
-        <a href="https://discordapp.com/user/1228891042787627070" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" height="25px" alt="Discord" />
-        </a>
-        <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" alt="YouTube" />
-        </a>
-        <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Facebook-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="25px" alt="Facebook" />
-        </a>
-        <a href="https://www.snapchat.com/add/magiciansheikh" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Snapchat-fffc00?style=for-the-badge&logo=snapchat&logoColor=black" height="25px" alt="SnapChat" />
-        </a>
-        <a href="https://wa.me/+923427837016" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px" alt="WhatsApp" />
-        </a>
-      </div>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" 
+      height="140" alt="Most Used Programming Languages Graph" />
+    <img src="https://github.com/mshsheikh/assets/blob/5693ef2ea3386fa336a656a7ec4a5987c5668898/github_thug_life.png"
+      height="140px" alt="GitHub Thug Life" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula"
+      height="140" alt="Streak Graph" /><br><br>   
+  </div>
+
+  <div align="center" style="display: flex; justify-content: center; gap: 8px; align-items: center;">
+    <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
+    </a>
+    <a href="https://discordapp.com/user/1228891042787627070" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" height="25px" alt="Discord" />
+    </a>
+    <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" height="25px" alt="YouTube" />
+    </a>
+    <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Facebook-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="25px" alt="Facebook" />
+    </a>
+    <a href="https://www.snapchat.com/add/magiciansheikh" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Snapchat-fffc00?style=for-the-badge&logo=snapchat&logoColor=black" height="25px" alt="SnapChat" />
+    </a>
+    <a href="https://wa.me/+923427837016" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px" alt="WhatsApp" />
+    </a>
   </div>
 </div>
 
@@ -116,3 +117,7 @@
 
 <img src="https://cdn.simpleicons.org/kalilinux/268BFF" height="40" alt="Kali Linux Logo Blue" /><br>
 With <b>Great Power</b> Comes <b>Great Responsibility</b>
+
+<div align="center">
+  <img src="https://github.com/mshsheikh/assets/blob/cde17537754ff43fe4d77768b85cf1822a670a23/github_thank_you.png" alt="Thank You" height="150">
+</div>
