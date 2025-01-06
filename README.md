@@ -116,3 +116,15 @@
 
 <img src="https://cdn.simpleicons.org/kalilinux/268BFF" height="40" alt="Kali Linux Logo Blue" /><br>
 With <b>Great Power</b> Comes <b>Great Responsibility</b>
+
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Code%20Reviews,Stars,Contributed%20Repos" height="140" alt="GitHub Trophies" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Streak,Commit,Fork" height="140" alt="GitHub Trophies" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=First%20Pull%20Request,First%20Issue,First%20Repository" height="140" alt="GitHub Trophies" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Contribution%20streak,PRs,Commits" height="140" alt="GitHub Trophies" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=4&title=Contributions,PR%20Merged,Issues%20Closed,Repositories" height="140" alt="GitHub Trophies" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=4&title=Repositories,Contributed%20Repositories,Stars,Forks" height="140" alt="GitHub Trophies" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Stars,Forks,Contributed%20Repositories" height="140" alt="GitHub Trophies" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=4&title=Commits,Pull%20Requests,Issues,Repositories" height="140" alt="GitHub Trophies" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" height="140" alt="GitHub Trophies" />
