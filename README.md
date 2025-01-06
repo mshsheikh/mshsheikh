@@ -10,7 +10,7 @@
         height="140" alt="Most Used Programming Languages Graph" />
       <img src="https://github.com/mshsheikh/assets/blob/5693ef2ea3386fa336a656a7ec4a5987c5668898/github_thug_life.png"
         height="140" alt="GitHub Thug Life" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula&hide_border=true&border_radius=5"
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula&hide_border=false&border_radius=5"
         height="140" alt="GitHub Streak Graph" /><br><br>
       <div style="display: flex; gap: 8px; align-items: center;">
       <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
