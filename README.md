@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/mshsheikh/assets/blob/ca747b08021e5ea5ccf6085e19aaaf8b23c8aef2/github_welcome.png" height="100%" alt="GitHub Welcome" />
-  <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <img src="https://github.com/mshsheikh/assets/blob/ca747b08021e5ea5ccf6085e19aaaf8b23c8aef2/github_welcome.png" height="100%" alt="GitHub Welcome" /><br>
       <img src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=6&title=Commits,Stars,Repositories,Followers"
         height="140" alt="GitHub Trophies" /><br>
+  <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" 
         height="140" alt="Most Used Programming Languages Graph" />
