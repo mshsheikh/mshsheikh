@@ -8,8 +8,8 @@
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
         height="150" alt="Most Used Programming Languages Graph" />
-      <img src="https://github.com/mshsheikh/assets/blob/7b54ab39b9ce253a77620623992d0a5252fce748/github_thug_life_blank_border.png"
-        height="120" alt="GitHub Thug Life" />
+      <img src="https://github.com/mshsheikh/assets/blob/7b54ab39b9ce253a77620623992d0a5252fce748/github_thug_life.png"
+        height="150" alt="GitHub Thug Life" />
       <img src="https://streak-stats.demolab.com?user=mshsheikh&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF6E96&ring=FF6E96&background=282A36&dates=FFFFFF&currStreakNum=79D9F9&currStreakLabel=79D9F9&sideNums=FF6E96&sideLabels=FF6E96"
         height="150" alt="GitHub Streak Graph" /><br><br>
       <div style="display: flex; gap: 8px; align-items: center;">
