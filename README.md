@@ -3,13 +3,13 @@
   <div align="center" style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
     <div>
       <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&layout=pie&langs_count=5&theme=dracula&hide_border=true" 
+        height="140" alt="Most Used Programming Languages Graph" />
+      <img 
         src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=15&row=1&column=3&title=Commits,Stars,Repositories" 
         height="140" alt="GitHub Trophies" /><br>
       <img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
-        height="140" alt="Most Used Programming Languages Graph" />
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&layout=pie&langs_count=5&theme=dracula&hide_border=true" 
         height="140" alt="Most Used Programming Languages Graph" />
       <img src="https://github.com/mshsheikh/assets/blob/5693ef2ea3386fa336a656a7ec4a5987c5668898/github_thug_life.png"
         height="140px" alt="GitHub Thug Life" />
