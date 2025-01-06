@@ -118,5 +118,4 @@
 With <b>Great Power</b> Comes <b>Great Responsibility</b>
 
 ---
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mshsheikh&theme=dracula&hide_border=true)
+https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=true&card_width=320
