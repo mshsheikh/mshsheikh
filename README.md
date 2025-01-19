@@ -85,6 +85,7 @@
     <tr>
       <td style="padding: 10px; border: 1px solid #ddd;"><b>College in ICS: 2016 - 2018</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
+        <img src="https://github.com/mshsheikh/assets/blob/b1b08fcbaaf00418b4af8fbd7faf7d374393de4c/turbo7_C%2B%2B_logo.webp" height="40" alt="Turbo7 Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
       </td>
     </tr>
