@@ -72,6 +72,7 @@
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/photoshop_cc.svg" height="40" alt="Photoshop Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/dreamweaver-cc.png" height="40" alt="Dreamweaver Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/3fe16200bf5b942dca6f0831651127a895ce3d8d/xampp_logo.webp" height="40" alt="XAMPP Server Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery Logo" />
