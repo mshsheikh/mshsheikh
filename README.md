@@ -56,6 +56,8 @@
         <img src="https://github.com/mshsheikh/assets/blob/cde17537754ff43fe4d77768b85cf1822a670a23/figma-logo.webp" height="40" alt="Figma Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/5a80711d88fb599c4c1b68a47d8bbf449aaf28ed/S_sanity_red_logo.png" height="40" alt="Sanity.io Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/fc26855747e1d5c5dd7bf587a84fcb71f3851806/groq-logo.png" height="40" alt="Groq Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/4e5debef930e806272e31f18a5faf00c495e88d2/cypress_gray_logo.png" height="40" alt="Cypress Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/4e5debef930e806272e31f18a5faf00c495e88d2/postman_logo.webp" height="40" alt="Postman Logo" />
       </td>
     </tr>
     <tr>
