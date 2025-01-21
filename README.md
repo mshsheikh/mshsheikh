@@ -12,9 +12,9 @@
         height="150" alt="GitHub Thug Life" />
       <img src="https://streak-stats.demolab.com?user=mshsheikh&hide_border=true&border_radius=0&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF6E96&ring=FF6E96&background=282A36&dates=FFFFFF&currStreakNum=79D9F9&currStreakLabel=79D9F9&sideNums=FF6E96&sideLabels=FF6E96"
         height="150" alt="GitHub Streak Graph" />
-    <img src="
+    <!-- <img src="
       https://streak-stats.demolab.com?user=mshsheikh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-        height="150" alt="GitHub Streak Graph" /><br><br>
+        height="150" alt="GitHub Streak Graph" /> --><br><br>
       <div style="display: flex; gap: 8px; align-items: center;">
       <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" height="25px" alt="Gmail" />
