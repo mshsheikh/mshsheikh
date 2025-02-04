@@ -64,7 +64,7 @@
       </td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>JS Skills: 2022 - 2023</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>JS Skills: 2021 - 2023</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
