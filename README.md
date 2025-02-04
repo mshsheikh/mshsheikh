@@ -101,7 +101,7 @@
       </td>
     </tr>
     <tr style="background-color: #f2f2f2;">
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>DOS Basics: 2012 - 2014</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>DOS Basics: 2013 - 2015</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://github.com/mshsheikh/assets/blob/dcb2d85dc0fe6ea45d18a6559b88909dadd7cf55/Msdos-icon.svg" height="40" alt="MS-DOS Logo" />
       </td>
