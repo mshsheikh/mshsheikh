@@ -46,6 +46,12 @@
   <h3>Timeline & Skills</h3>
   <table style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif;">
     <tr style="background-color: #f2f2f2;">
+      <tr>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>☠︎︎: 2025</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
+      </td>
+    </tr>
       <td style="padding: 10px; border: 1px solid #ddd;"><b>AI WebApps: 2024</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://github.com/mshsheikh/assets/blob/9c5147f35b4c9d56f5ee3459dbd49ba36ddd884b/github_logo.png" height="40" alt="GitHub Logo" />
