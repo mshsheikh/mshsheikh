@@ -64,7 +64,7 @@
       </td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>2022 - 2023</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>2021 - 23</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript Logo" />
@@ -73,7 +73,7 @@
       </td>
     </tr>
     <tr style="background-color: #f2f2f2;">
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>2018-2021</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>2018 - 21</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/photoshop_cc.svg" height="40" alt="Photoshop Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/397a77c9dcc9840c7004c9ac32b3ac7b8e82d844/dreamweaver-cc.png" height="40" alt="Dreamweaver Logo" />
@@ -88,14 +88,14 @@
       </td>
     </tr>
     <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>2016 - 2018</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>2016 - 18</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://github.com/mshsheikh/assets/blob/b1b08fcbaaf00418b4af8fbd7faf7d374393de4c/turbo7_C%2B%2B_logo.webp" height="40" alt="Turbo7 Logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ Logo" />
       </td>
     </tr>
     <tr style="background-color: #f2f2f2;">
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>2012 - 2014</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>2012 - 14</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://github.com/mshsheikh/assets/blob/dcb2d85dc0fe6ea45d18a6559b88909dadd7cf55/Msdos-icon.svg" height="40" alt="MS-DOS Logo" />
       </td>
