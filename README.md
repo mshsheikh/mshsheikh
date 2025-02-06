@@ -6,7 +6,7 @@
         src="https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=dracula&no-frame=true&margin-w=10&row=1&column=4&title=Commits,Stars,Repositories,Followers" 
         height="140" alt="GitHub Trophies" /><br>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=16&theme=dracula&hide_border=true" 
         height="150" alt="Most Used Programming Languages Graph" />
       <img src="https://github.com/mshsheikh/assets/blob/568ca2e7caff5b6407b56887b747210fa5eae705/github_thug_life_without_cigar.png"
         height="150" alt="GitHub Thug Life" />
