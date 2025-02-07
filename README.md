@@ -47,7 +47,7 @@
   <table style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif;">
     <tr style="background-color: #f2f2f2;">
       <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>☠︎ 🂡︎: 2025</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>☠︎ 🂡︎ : 2025</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/03d22a5bcaef5896b3463002241357a864d06121/blue_hat.png" height="40" alt="Blue Hat" />
