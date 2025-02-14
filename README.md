@@ -53,6 +53,7 @@
         <img src="https://github.com/mshsheikh/assets/blob/12c7feaee1b35f54b221f4864a176e921b28bfa4/anaconda.webp" height="40" alt="Anaconda Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/9901a61aa0095efd74d84628003a0bd05f278658/jupyter_notebook.png" height="40" alt="Jupyter Notebook Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/9901a61aa0095efd74d84628003a0bd05f278658/google_colab.webp" height="40" alt="Google Colab Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/7d1f857c417e1d0208a13727ea7312af29e60492/numpy_logo.webp" height="40" alt="Numpy Logo" />
         <!-- <img src="https://github.com/mshsheikh/assets/blob/03d22a5bcaef5896b3463002241357a864d06121/blue_hat.png" height="40" alt="Blue Hat" /> -->
       </td>
     </tr>
