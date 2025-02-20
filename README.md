@@ -55,7 +55,7 @@
         <img src="https://github.com/mshsheikh/assets/blob/9901a61aa0095efd74d84628003a0bd05f278658/google_colab.webp" height="40" alt="Google Colab Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/f08b9efbfa3912d5ae8fb067f18cdfaffa4cd68e/mypy.png" height="40" alt="Mypy Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/a4a3796dcf8f5bebedadf64c6fdc21bdeef8343b/pandas-light-colors.png" height="40" alt="Pandas Logo" />
-        <img src="https://github.com/mshsheikh/assets/blob/0a1ecb5ef0eaa8b714e44f47fe48e193e41b831b/streamlit-logo-with-blank-space.png" height="40" alt="Streamlit Logo" />
+        <img src="https://github.com/mshsheikh/assets/blob/ea6e95bc62b370743034c944c2bce76a3f264ba5/streamlit-logo-with-blank-space.png" height="40" alt="Streamlit Logo" />
         <!-- <img src="https://github.com/mshsheikh/assets/blob/03d22a5bcaef5896b3463002241357a864d06121/blue_hat.png" height="40" alt="Blue Hat" /> -->
       </td>
     </tr>
