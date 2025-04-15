@@ -47,7 +47,7 @@
   <table style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif;">
     <tr style="background-color: #f2f2f2;">
       <tr>
-      <td style="padding: 10px; border: 1px solid #ddd;"><b>☠︎ 🂡︎ : 2025</b></td>
+      <td style="padding: 10px; border: 1px solid #ddd;"><b>AI with Python: 2025</b></td>
       <td style="padding: 10px; border: 1px solid #ddd;">
         <img src="https://github.com/mshsheikh/assets/blob/434b9c0807d8df169ff39b6c2b62d1bd422e3200/python-logo.png" height="40" alt="Python Logo" />
         <img src="https://github.com/mshsheikh/assets/blob/12c7feaee1b35f54b221f4864a176e921b28bfa4/anaconda.webp" height="40" alt="Anaconda Logo" />
