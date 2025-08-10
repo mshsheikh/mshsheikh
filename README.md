@@ -43,7 +43,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/mshsheikh/assets/blob/5b2d3e578780566d0712b8b5866a5585dc9ad141/GitHub%20Planetaey%20Skills.png" height="400" alt="Planetary Skills" />
+  <img src="https://github.com/mshsheikh/assets/blob/5b2d3e578780566d0712b8b5866a5585dc9ad141/GitHub%20Planetaey%20Skills.png" height="600" alt="Planetary Skills" />
 </div>
 
 ---
