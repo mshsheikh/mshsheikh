@@ -42,7 +42,8 @@
 
 ---
 
-<img src="https://github.com/mshsheikh/assets/blob/5b2d3e578780566d0712b8b5866a5585dc9ad141/GitHub%20Planetaey%20Skills.png" height="40" alt="Planetary Skills" />
+<img src="https://github.com/mshsheikh/assets/blob/5b2d3e578780566d0712b8b5866a5585dc9ad141/GitHub%20Planetaey%20Skills.png" height="400" alt="Planetary Skills" />
+<!--
 <div align="center">
   <h3>Timeline & Skills</h3>
   <table style="border-collapse: collapse; width: 90%; text-align: left; font-family: Arial, sans-serif;">
