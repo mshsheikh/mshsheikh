@@ -44,7 +44,7 @@
 
 <div align="center">
   <h3>Planetary Skills</h3>
-  <img src="https://github.com/mshsheikh/assets/blob/741904d427119c7695d0a39ef3704dca9dda9685/Planetaey%20Skills.png" height="600" alt="Planetary Skills" />
+  <img src="https://github.com/mshsheikh/assets/blob/2b9750d96d76b63fd357a291ecdc449571476246/Planetaey%20Skills%20v0.3.png" height="400" alt="Planetary Skills" />
 </div>
 
 ---
