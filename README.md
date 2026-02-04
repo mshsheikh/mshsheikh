@@ -8,7 +8,7 @@
                   <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
             </a>
             <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer">
-                  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="25px" alt="X (Twitter)" />
+                  <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" height="25px" alt="X (Twitter)" />
             </a>
             <a href="https://discordapp.com/users/1228891042787627070" target="_blank" rel="noopener noreferrer">
                   <img src="https://img.shields.io/badge/Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white" height="25px" alt="Discord" />
