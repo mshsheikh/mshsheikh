@@ -27,7 +27,7 @@
   </a><br />
 
   <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="25px" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="28px" alt="Facebook" />
   </a>
 
   <br clear="left" />
