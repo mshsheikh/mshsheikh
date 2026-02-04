@@ -11,23 +11,23 @@
 <br />
 
   <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=gmail" height="32px" alt="Gmail" />
+      <img src="https://skillicons.dev/icons?i=gmail" height="20px" alt="Gmail" />
   </a><br />
     
   <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="32px" alt="LinkedIn" />
+      <img src="https://skillicons.dev/icons?i=linkedin" height="20px" alt="LinkedIn" />
   </a><br />
     
   <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=twitter" height="32px" alt="X" />
+      <img src="https://skillicons.dev/icons?i=twitter" height="20px" alt="X" />
   </a><br />
     
   <a href="https://discordapp.com/users/1228891042787627070" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=discord" height="32px" alt="Discord" />
+      <img src="https://skillicons.dev/icons?i=discord" height="20px" alt="Discord" />
   </a><br />
 
   <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=youtube" height="32px" alt="YouTube" />
+      <img src="https://skillicons.dev/icons?i=youtube" height="20px" alt="YouTube" />
   </a>
 
   <br clear="left" />
