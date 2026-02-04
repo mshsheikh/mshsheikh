@@ -5,9 +5,9 @@
 <br />
 
 <br />
-
-Find me: 
+ 
 <div align="left" style="display: flex; gap: 8px;">
+  Find me:
   <a href="mailto:business.mshsheikh@gmail.com">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
   </a>
