@@ -5,30 +5,31 @@
 <br />
 <br />
 
-<div align="left">
-  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="150" alt="Baymax" style="margin-right: 15px;" />
+<div style="display: flex; align-items: flex-end; gap: 20px;">
 
-<br />
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" height="150" alt="Baymax" />
 
-  <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=gmail" height="20px" alt="Gmail" />
-  </a><br />
+  <div style="display: flex; flex-direction: column; gap: 10px; padding-bottom: 5px;">
     
-  <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=linkedin" height="20px" alt="LinkedIn" />
-  </a><br />
+  <a href="mailto:business.mshsheikh@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" height="25px" alt="Gmail" />
+    </a>
     
-  <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=twitter" height="20px" alt="X" />
-  </a><br />
+  <a href="https://www.linkedin.com/in/mshsheikh" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
+    </a>
     
-  <a href="https://discordapp.com/users/1228891042787627070" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=discord" height="20px" alt="Discord" />
-  </a><br />
+  <a href="https://x.com/mshsheikh_" target="_blank">
+      <img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white" height="25px" alt="X" />
+    </a>
+    
+  <a href="https://discordapp.com/users/1228891042787627070" target="_blank">
+      <img src="https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=discord&logoColor=white" height="25px" alt="Discord" />
+    </a>
 
-  <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
-      <img src="https://skillicons.dev/icons?i=youtube" height="20px" alt="YouTube" />
-  </a>
+  <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank">
+      <img src="https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=youtube&logoColor=white" height="25px" alt="YouTube" />
+    </a>
 
-  <br clear="left" />
+  </div>
 </div>
