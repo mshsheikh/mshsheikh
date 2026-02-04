@@ -5,10 +5,8 @@
 <br />
 <br />
 
-<div align="left" style="display: flex; align-items: flex-end; gap: 15px;">
-  
+<div align="left" style="display: flex; align-items: flex-end; gap: 10px;">
   <div style="display: flex; flex-direction: column; gap: 8px;">
-    ***Find me:***
     <a href="mailto:business.mshsheikh@gmail.com">
       <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
     </a>
@@ -23,6 +21,5 @@
     </a>
   </div>
 
-  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" height="150" alt="Baymax Kicking Football" />
-  
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" height="150" alt="Baymax" />
 </div>
