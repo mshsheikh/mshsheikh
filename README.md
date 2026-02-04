@@ -3,9 +3,13 @@
 </div>
 
 <br />
+<br />
 
 <div align="left">
   <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="150" alt="Baymax" style="margin-right: 15px;" />
+
+  ***Find me:***<br />
+
   <a href="mailto:business.mshsheikh@gmail.com">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
   </a><br />
