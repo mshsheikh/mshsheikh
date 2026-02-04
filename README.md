@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
   </a><br />
 
-  <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/in-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mshsheikh" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32px" alt="LinkedIn" />
   </a><br />
 
   <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer">
