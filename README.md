@@ -4,24 +4,27 @@
 
 <br />
 
-<div align="left" style="display: flex; align-items: flex-end; gap: 15px;">
-  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" 
-       height="150" 
-       alt="Baymax" 
-       style="display: block;" />
-
-  <div style="display: flex; flex-direction: column; gap: 8px; padding-bottom: 5px;">
-    <a href="mailto:business.mshsheikh@gmail.com">
-      <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
-    </a>
-    <a href="https://x.com/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="28px" alt="X" />
-    </a>
-    <a href="https://discordapp.com/users/1228891042787627070">
-      <img src="https://img.shields.io/badge/-5865f2?style=flat-square&logo=discord&logoColor=white" height="28px" alt="Discord" />
-    </a>
-    <a href="https://www.youtube.com/c/@SalmanSheikhOfficial">
-      <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="28px" alt="YouTube" />
-    </a>
-  </div>
-</div>
+<table border="0">
+  <tr>
+    <td valign="bottom">
+      <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" width="160" alt="Baymax" />
+    </td>
+    <td valign="bottom">
+      <div align="left">
+        ***Find me:***<br />
+        <a href="mailto:business.mshsheikh@gmail.com">
+          <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
+        </a><br />
+        <a href="https://x.com/YOUR_USERNAME">
+          <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="28px" alt="X" />
+        </a><br />
+        <a href="https://discordapp.com/users/1228891042787627070">
+          <img src="https://img.shields.io/badge/-5865f2?style=flat-square&logo=discord&logoColor=white" height="28px" alt="Discord" />
+        </a><br />
+        <a href="https://www.youtube.com/c/@SalmanSheikhOfficial">
+          <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="28px" alt="YouTube" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
