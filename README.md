@@ -26,7 +26,7 @@
       <img src="https://skillicons.dev/icons?i=discord" height="20px" alt="Discord" />
   </a><br />
 
-  <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
       <img src="https://skillicons.dev/icons?i=youtube" height="20px" alt="YouTube" />
   </a>
 
