@@ -31,12 +31,12 @@
   </a><br />
 
   <a href="https://www.snapchat.com/add/magiciansheikh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-fffc00?style=for-the-badge&logo=snapchat&logoColor=black" height="25px" alt="SnapChat" />
+    <img src="https://img.shields.io/badge/-fffc00?style=for-the-badge&logo=snapchat&logoColor=black" height="20px" alt="SnapChat" />
   </a><br />
   
   <a href="https://wa.me/+923427837016" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25px" alt="WhatsApp" />
-  </a>
+    <img src="https://img.shields.io/badge/-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" height="20px" alt="WhatsApp" />
+  </a><br />
 
   <br clear="left" />
 </div>
