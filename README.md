@@ -6,7 +6,6 @@
 <br />
  
 <div align="left" style="display: flex; gap: 8px; align-items: center;">
-  <span style="padding-right: 4px;">***Find me:***</span><br />
   <a href="mailto:business.mshsheikh@gmail.com">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
   </a><br />
