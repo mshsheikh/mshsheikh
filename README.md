@@ -14,6 +14,10 @@
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
   </a><br />
 
+  <a href="https://www.linkedin.com/in/mshsheikh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/in-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn" />
+  </a><br />
+
   <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="28px" alt="X" />
   </a><br />
@@ -24,10 +28,6 @@
 
   <a href="https://www.youtube.com/c/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="28px" alt="YouTube" />
-  </a><br />
-
-  <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="20px" alt="Facebook" />
   </a><br />
 
   <br clear="left" />
