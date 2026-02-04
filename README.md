@@ -6,6 +6,7 @@
 <br />
 
 <div align="left" style="display: flex; align-items: flex-end; gap: 10px;">
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" height="150" alt="Baymax" />
   <div style="display: flex; flex-direction: column; gap: 8px;">
     <a href="mailto:business.mshsheikh@gmail.com">
       <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
@@ -20,6 +21,4 @@
       <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="28px" alt="YouTube" />
     </a><br />
   </div>
-
-  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" height="150" alt="Baymax" />
 </div>
