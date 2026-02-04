@@ -6,12 +6,10 @@
 
 <br />
 
+Find me: 
 <div align="left" style="display: flex; gap: 8px;">
   <a href="mailto:business.mshsheikh@gmail.com">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/mshsheikh">
-    <img src="https://img.shields.io/badge/-0077b5?style=flat-square&logo=linkedin&logoColor=white" height="28px" alt="LinkedIn" />
   </a>
   <a href="https://x.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="28px" alt="X" />
