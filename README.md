@@ -5,8 +5,8 @@
 <br />
 <br />
 
-<img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif" height="150" alt="EVA Fly Life" />
 <div align="left" style="display: flex; gap: 8px; align-items: center;">
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif" height="150" alt="EVA Fly Life" />
   <a href="mailto:business.mshsheikh@gmail.com">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
   </a><br />
