@@ -34,10 +34,7 @@
 
   <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="42px" alt="YouTube" />
-  </a><br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" 
-        height="150" alt="Most Used Programming Languages Graph" />
+  </a>
 
   <br clear="left" />
 
