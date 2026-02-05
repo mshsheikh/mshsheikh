@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=200&color=999999&size=24&width=435&lines=Autonomous+AI+Systems+Engineer+</>" /><br />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=200&color=999999&size=24&width=435&lines=<Autonomous+AI+Systems+Engineer/>+</>" /><br />
 </div>
 
 <div align="center">
