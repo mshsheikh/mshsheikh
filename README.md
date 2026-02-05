@@ -3,12 +3,10 @@
 </div>
 
 <table border="0">
-  <tr>
-    <td width="25"></td>
+    <td width="60"></td>
       <td>
         <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=1000&color=999999&size=24&width=435&lines=Hi+there,+I'm+Salman+Sheikh;Full+Stack+Developer;AI+Automation+Expert;Building+the+Future+in+2026" alt="Typing SVG" />
       </td>
-    </tr>
 </table>
 
 <br />
