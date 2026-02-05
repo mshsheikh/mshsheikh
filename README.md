@@ -24,10 +24,10 @@
 
   <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="28px" alt="YouTube" />
-  </a>
+  </a><br />
 
   <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="20px" alt="Facebook" />
+    <img src="https://img.shields.io/badge/-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="20px" alt="Facebook" />
   </a>
 
   <br clear="left" />
