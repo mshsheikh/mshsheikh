@@ -36,6 +36,9 @@
     <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="42px" alt="YouTube" />
   </a>
 
+  ```text
+      Updating...
+  ```
   <br clear="left" />
 
 </div>
