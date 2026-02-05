@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/mshsheikh/assets/blob/33499506011d07fa2739cbbeec4170152502b15a/eva-green-red-fly-wall-e.gif?raw=true" height="250" alt="EVA Fly Life" />
+  <img src="https://github.com/mshsheikh/assets/blob/33499506011d07fa2739cbbeec4170152502b15a/eva-green-red-fly-wall-e.gif?raw=true" height="240" alt="EVA Fly Life" />
 </div>
 
 <br />
 <br />
 
 <div align="left">
-  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="141" alt="Baymax" style="margin-right: 15px;" />
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="132" alt="Baymax" style="margin-right: 15px;" />
 
 ---
 
