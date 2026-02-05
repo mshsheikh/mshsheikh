@@ -2,7 +2,7 @@
   <img src="https://github.com/mshsheikh/assets/blob/33499506011d07fa2739cbbeec4170152502b15a/eva-green-red-fly-wall-e.gif?raw=true" height="240" alt="EVA Fly Life" />
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=200&color=999999&size=24&width=435&lines=Autonomous+AI+Systems+Engineer" /><br />
   <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=1000&color=999999&size=24&width=435&lines=Full-stack+Developer" alt="Typing SVG" /><br />
   <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=1000&color=999999&size=24&width=435&lines=Backend+Specialist" alt="Typing SVG" />
