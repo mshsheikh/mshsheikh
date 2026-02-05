@@ -14,16 +14,20 @@
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
   </a><br />
 
-  <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="28px" alt="X" />
   </a><br />
 
-  <a href="https://discordapp.com/users/1228891042787627070">
+  <a href="https://discordapp.com/users/1228891042787627070" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-5865f2?style=flat-square&logo=discord&logoColor=white" height="28px" alt="Discord" />
   </a><br />
 
-  <a href="https://www.youtube.com/@SalmanSheikhOfficial">
+  <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="28px" alt="YouTube" />
+  </a>
+
+  <a href="https://www.facebook.com/magiciansheikh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1f7bf2?style=for-the-badge&logo=facebook&logoColor=white" height="20px" alt="Facebook" />
   </a>
 
   <br clear="left" />
