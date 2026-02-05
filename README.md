@@ -12,6 +12,8 @@
 
 ---
 
+  <br />
+
   <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="28px" alt="Gmail" />
   </a><br />
