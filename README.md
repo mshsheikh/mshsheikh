@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/turbo7_C%2B%2B_logo.webp" height="40" alt="Planetary Skills" />
+  <img src="https://github.com/mshsheikh/assets/blob/2e69b3dc4dc7abc793c115eff1e0d82e9ef2b4cc/skills-2026.png" height="40" alt="Planetary Skills" />
 </div>
 
 <br />
