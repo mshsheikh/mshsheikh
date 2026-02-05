@@ -2,11 +2,9 @@
   <img src="https://github.com/mshsheikh/assets/blob/33499506011d07fa2739cbbeec4170152502b15a/eva-green-red-fly-wall-e.gif?raw=true" height="240" alt="EVA Fly Life" />
 </div>
 
-<td width="60"></td>
-  <td>
-    <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=1000&color=999999&size=24&width=435&lines=Hi+there,+I'm+Salman+Sheikh;Full+Stack+Developer;AI+Automation+Expert;Building+the+Future+in+2026" alt="Typing SVG" />
-  </td>
-</td>
+<div align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=1000&color=999999&size=24&width=435&lines=Hi+there,+I'm+Salman+Sheikh;Full+Stack+Developer;AI+Automation+Expert;Building+the+Future+in+2026" alt="Typing SVG" />
+</div>
 
 <br />
 <br />
