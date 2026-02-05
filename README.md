@@ -36,13 +36,8 @@
     <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="42px" alt="YouTube" />
   </a><br />
 
-  ```text
-
-[32m (Your Art Here turns Cyan)
-
-⣿⣿⣿⠿⢟⡛⢿⣿⣿⣿⣿⣿⣿
-
-```
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mshsheikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" 
+        height="150" alt="Most Used Programming Languages Graph" />
 
   <br clear="left" />
 
