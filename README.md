@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/mshsheikh/assets/main/transparent-spacer.png" width="20" height="1" />
+  <img src="https://raw.githubusercontent.com/mshsheikh/assets/main/transparent-spacer.png" width="200" height="1" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41D1FF&size=24&width=435&lines=Hi+there,+I'm+Salman+Sheikh;Full+Stack+Developer;AI+Automation+Expert;Building+the+Future+in+2026" alt="Typing SVG" />
 </div>
 
