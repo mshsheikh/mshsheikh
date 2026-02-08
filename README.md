@@ -21,8 +21,8 @@
 Hi, I’m Salman
 
 I build and scale **cloudnative, production AI agents and LLM applications** for enterprise teams.
-
-My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and **AI governance**making sure systems are **safe, observable, reliable, and productionready**.
+My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and **AI governance**
+making sure systems are **safe, observable, reliable, and productionready**.
 
 
 Over the past year, I’ve:
