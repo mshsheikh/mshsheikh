@@ -3,10 +3,7 @@
 </div>
 
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=200&color=008000&size=24&width=435&lines=>_+Autonomous+AI+Systems+Engineer"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=200&color=008000&size=24&width=435&lines=>_+Autonomous+AI+Systems+Engineer" /><br />
 </div>
 
 <div align="center">
@@ -14,45 +11,37 @@
 </div>
 
 <br />
+<br />
 
 <div align="left">
-  <img
-    src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true"
-    align="left"
-    height="132"
-    alt="Baymax"
-    style="margin-right: 16px;"
-  />
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="132" alt="Baymax" style="margin-right: 15px;" />
 
-### 👋 Hi, I’m Salman
+---
+
+  <br />
+
+  <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="42px" alt="Gmail" />
+  </a><br />
+
+  <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="42px" alt="X" />
+  </a><br />
+
+  <a href="https://discordapp.com/users/1228891042787627070" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-5865f2?style=flat-square&logo=discord&logoColor=white" height="42px" alt="Discord" />
+  </a><br />
+
+  # 👋 Hi, I’m Salman
 
 I build and scale **cloud-native, production AI agents and LLM applications** for enterprise teams.
 
-My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and **AI governance**—ensuring systems are **safe, observable, reliable, and production-ready**.
+My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and **AI governance**—making sure systems are **safe, observable, reliable, and production-ready**.
 
 Over the past year, I’ve:
 - 🚀 Reduced deployment lead time by **30%**
 - 🔁 Decreased content update cycles by **40%**
 - 🟢 Maintained **99% uptime** in production environments
-
-<br />
-
-<a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" height="40" alt="Gmail" />
-</a>
-<br />
-
-<a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="40" alt="X" />
-</a>
-<br />
-
-<a href="https://discordapp.com/users/1228891042787627070" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Discord-5865f2?style=flat-square&logo=discord&logoColor=white" height="40" alt="Discord" />
-</a>
-
-<br clear="left" />
-</div>
 
 ---
 
@@ -72,12 +61,12 @@ I also consult with teams to turn AI concepts into **measurable, production outc
 ## 🔍 RAG, Data & Knowledge Systems
 
 - Design and implement **RAG pipelines** and **vector search**
-- **Qdrant** & **Pinecone**
-- **PostgreSQL**, **NeonDB**, **SQLModel**
-- Developer docs with **Docusaurus**
-- **Markdown as code**
+- Work with **Qdrant** and **Pinecone**
+- Build data backends using **PostgreSQL**, **NeonDB**, and **SQLModel**
+- Ship **developer docs and portals** with **Docusaurus**
+- Treat **Markdown as code**
 
-Agent UIs & integrations:
+For agent UIs and integrations, I work with:
 - **OpenAI ChatKit**
 - **Official MCP SDKs**
 
@@ -85,50 +74,55 @@ Agent UIs & integrations:
 
 ## ☁️ Cloud, DevOps & Observability
 
-- **Docker** & **Kubernetes**
-- **Helm**, **Minikube**, **kubectl-ai**, **kagent**
-- **GitHub Actions**, **Terraform**, **DevContainers**, **n8n**
-- **DigitalOcean (DOKS)** for cost-effective production clusters
+I deploy and operate systems using:
 
-Every release includes observability, model monitoring, and **OpenTelemetry** patterns.
+- **Docker** & **Kubernetes**
+- **Helm**, **Minikube**, **kubectl-ai**, and **kagent**
+- **GitHub Actions**, **Terraform**, **DevContainers**, and **n8n**
+- Cost-effective production clusters on **DigitalOcean (DOKS)** when appropriate
+
+Every release includes:
+- 📊 Observability
+- 🔎 Model monitoring
+- 🧬 OpenTelemetry patterns
 
 ---
 
 ## 🧪 Engineering Philosophy
 
 - **Test-Driven** & **Spec-Driven Development**
-- Guardrails for **safe, predictable RAG**
-- Strong focus on governance and reliability
+- Guardrails for **safe and predictable RAG behavior**
+- Strong emphasis on **governance, reliability, and maintainability**
 
-**M-Shaped Development**  
-> Deep AI/ML expertise × Broad full-stack & cloud skills
+I call this approach **M-Shaped Development**:
+> Deep AI/ML expertise combined with broad full-stack and cloud engineering skills.
 
 ---
 
 ## 🏆 Selected Results
 
-Production agents and governed LLM apps delivered for:
+Delivered **production agents and governed LLM applications** for:
 - Shell
 - Unilever
 - Carrefour
 - HBL
 
-Results:
-- Faster releases
-- Shorter content cycles
+Outcomes included:
+- Faster release cycles
+- Shorter content update timelines
 - Enterprise uptime targets
-- Higher release velocity
+- Improved release velocity
 
 ---
 
 ## 🤝 Open To
 
-- AI Engineering
-- MLOps
-- Full-stack cloud roles
-- Short-term consulting
+- AI Engineering roles
+- MLOps roles
+- Full-stack cloud development
+- Short-term consulting engagements
 
-Let’s build **practical, scalable AI systems** together.
+Let’s connect and build **practical, scalable AI systems** together.
 
 ---
 
@@ -149,11 +143,14 @@ TypeScript · Next.js · Tailwind CSS · Sanity (groq) · Docusaurus · Markdown
 **Quality**  
 pytest · TDD · Spec-Driven Development
 
----
 
-<a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/YouTube-ff0000?style=flat-square&logo=youtube&logoColor=white" height="40" alt="YouTube" />
-</a>
+  <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="42px" alt="YouTube" />
+  </a>
 
-```text
-Updating…
+  ```text
+      Updating...
+  ```
+  <br clear="left" />
+
+</div>
