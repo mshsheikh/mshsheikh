@@ -16,7 +16,7 @@
 <div align="left">
   <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="132" alt="Baymax" style="margin-right: 15px;" />
 
-👋 Hi, I’m Salman
+Hi, I’m Salman
 
 I build and scale **cloud-native, production AI agents and LLM applications** for enterprise teams.
 
@@ -132,7 +132,7 @@ pytest · TDD · Spec-Driven Development
 **Find me here:**<br />
   <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="42px" alt="Gmail" />
-  </a><br />
+  </a>
 
   <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="42px" alt="X" />
