@@ -130,7 +130,7 @@ pytest · TDD · Spec-Driven Development
 ---
 
 **Find me here:**
-<br />
+  
   <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="42px" alt="Gmail" />
   </a>
