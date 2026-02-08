@@ -17,7 +17,9 @@
   <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="132" alt="Baymax" style="margin-right: 15px;" />
 
 Hi, I’m Salman
+
 I build and scale **cloud-native, production AI agents and LLM applications** for enterprise teams.
+
 My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and **AI governance**—making sure systems are **safe, observable, reliable, and production-ready**.
 
 Over the past year, I’ve:
@@ -127,7 +129,7 @@ pytest · TDD · Spec-Driven Development
 
 ---
 
-**Find me here:**<br />
+**Find me here:**
   <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="42px" alt="Gmail" />
   </a>
