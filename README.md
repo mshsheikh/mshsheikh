@@ -16,10 +16,6 @@
 <div align="left">
   <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="132" alt="Baymax" style="margin-right: 15px;" />
 
----
-
-  <br />
-
   # 👋 Hi, I’m Salman
 
 I build and scale **cloud-native, production AI agents and LLM applications** for enterprise teams.
@@ -130,6 +126,8 @@ TypeScript · Next.js · Tailwind CSS · Sanity (groq) · Docusaurus · Markdown
 
 **Quality**  
 pytest · TDD · Spec-Driven Development
+
+---
 
 **Find me here:**<br />
   <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
