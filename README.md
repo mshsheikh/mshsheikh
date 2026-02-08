@@ -28,9 +28,7 @@ My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and 
 Over the past year, I’ve:
  
  🚀 Reduced deployment lead time by **30%**
- 
  🔁 Decreased content update cycles by **40%**
- 
  🟢 Maintained **99% uptime** in production environments
 
 
