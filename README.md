@@ -20,7 +20,7 @@
 
 Hi, I’m Salman
 
-I build and scale **cloudnative, production AI agents and LLM applications** for enterprise teams.
+I build and scale **cloud-native, production AI agents and LLM applications** for enterprise teams.
 My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and **AI governance**
 making sure systems are **safe, observable, reliable, and productionready**.
 
@@ -38,13 +38,13 @@ Over the past year, I’ve:
 ## 🧠 What I Do
 
 I started my journey in **Karachi**, working with **WordPress, JavaScript, TypeScript, and Python**.  
-Today, I work as an **Agentic AI Engineer & Fullstack Developer at GIAIC**, designing autonomous, cloudnative systems using:
+Today, I work as an **Agentic AI Engineer & Full-stack Developer at GIAIC**, designing autonomous, cloud-native systems using:
 
  **OpenAI GPT** & **OpenAI Agents SDK**
  **FastAPI**, **Dapr**, and **MCP Server (Context7)**
  Distributed training and fine tuning with **Ray** and **PyTorch**
 
-I also consult with teams to turn AI concepts into **measurable, production outcomes**not demos.
+I also consult with teams to turn AI concepts into **measurable, production outcomes** not demos.
 
 
 
@@ -67,7 +67,7 @@ For agent UIs and integrations, I work with:
 I deploy and operate systems using:
 
  **Docker** & **Kubernetes**
- **Helm**, **Minikube**, **kubectlai**, and **kagent**
+ **Helm**, **Minikube**, **kubectl-ai**, and **kagent**
  **GitHub Actions**, **Terraform**, **DevContainers**, and **n8n**
  Costeffective production clusters on **DigitalOcean (DOKS)** when appropriate
 
@@ -84,8 +84,8 @@ Every release includes:
  Guardrails for **safe and predictable RAG behavior**
  Strong emphasis on **governance, reliability, and maintainability**
 
-I call this approach **MShaped Development**:
-> Deep AI/ML expertise combined with broad fullstack and cloud engineering skills.
+I call this approach **M-Shaped Development**:
+> Deep AI/ML expertise combined with broad full-stack and cloud engineering skills.
 
 
 
@@ -109,8 +109,8 @@ Outcomes included:
 
  AI Engineering roles
  MLOps roles
- Fullstack cloud development
- Shortterm consulting engagements
+ Full-stack cloud development
+ Short-term consulting engagements
 
 Let’s connect and build **practical, scalable AI systems** together.
 
@@ -125,7 +125,7 @@ Python · OpenAI GPT · OpenAI Agents SDK · OpenAI ChatKit · Ray · PyTorch ·
 FastAPI · Dapr · MCP Server (Context7) · Official MCP SDK · PostgreSQL · NeonDB · SQLModel · Qdrant · Pinecone · Kafka
 
 **Cloud & DevOps**  
-Docker · Kubernetes · Helm · Minikube · kubectlai · kagent · GitHub Actions · Terraform · DevContainers · DigitalOcean (DOKS) · n8n
+Docker · Kubernetes · Helm · Minikube · kubectl-ai · kagent · GitHub Actions · Terraform · DevContainers · DigitalOcean (DOKS) · n8n
 
 **Frontend & DX**  
 TypeScript · Next.js · Tailwind CSS · Sanity (groq) · Docusaurus · Markdown as code
