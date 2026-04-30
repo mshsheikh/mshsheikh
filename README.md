@@ -15,10 +15,10 @@
 <!-- Global Authority Badges -->
 <div align="center">
     <a href="https://github.com/openai/openai-agents-python">
-      <img src="https://img.shields.io/badge/OpenAI%20Agents-Top%2010%20Contributor-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="33" alt="OpenAI Contributor" /><br />
+      <img src="https://img.shields.io/badge/OpenAI%20Agents-Top%2010%20Contributor-10A37F?style=for-the-badge&logoColor=black" height="33" alt="OpenAI Contributor" /><br />
     </a>
-    <img src="https://img.shields.io/badge/Stanford%20CS336-Alumni-8C1515?style=for-the-badge&logo=stanford&logoColor=white" height="33" alt="Stanford Alumni" />
-    <img src="https://img.shields.io/badge/NVIDIA%20Partner-Instructor-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="33" alt="NVIDIA Partner" />
+    <img src="https://img.shields.io/badge/Stanford%20CS336-Alumni-8C1515?style=for-the-badge&logoColor=white" height="33" alt="Stanford Alumni" />
+    <img src="https://img.shields.io/badge/NVIDIA%20Partner-Instructor-76B900?style=for-the-badge&logoColor=white" height="33" alt="NVIDIA Partner" />
 </div>
 
 <br />
@@ -145,25 +145,25 @@ pytest · TDD · Spec-Driven Development
 <div align="center">
 
 <div align="center">
-  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" height="40" alt="Baymax" />
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" height="80" alt="Baymax" />
 </div>
   
 **Find me here:**
   
   <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="42px" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-ea4335?style=flat-square&logo=gmail&logoColor=white" height="51px" alt="Gmail" />
   </a>
 
   <a href="https://x.com/mshsheikh_" target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="42px" alt="X" />
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="51px" alt="X" />
   </a>
 
   <a href="https://discordapp.com/users/1228891042787627070" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-5865f2?style=flat-square&logo=discord&logoColor=white" height="42px" alt="Discord" />
+    <img src="https://img.shields.io/badge/-5865f2?style=flat-square&logo=discord&logoColor=white" height="51px" alt="Discord" />
   </a>
 
   <a href="https://www.youtube.com/@SalmanSheikhOfficial" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="42px" alt="YouTube" />
+    <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="51px" alt="YouTube" />
   </a>
 
 </div>
