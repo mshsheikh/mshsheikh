@@ -135,16 +135,18 @@ FastAPI · Dapr · MCP Server (Context7) · Official MCP SDK · PostgreSQL · Ne
 Docker · Kubernetes · Helm · Minikube · kubectl-ai · kagent · GitHub Actions · Terraform · DevContainers · DigitalOcean (DOKS) · n8n
 
 **Frontend & DX**  
-TypeScript · Next.js · Tailwind CSS · Sanity (groq) · Docusaurus · Markdown as code
+TypeScript · Next.js · Tailwind CSS · Sanity (groq) · Docusaurus · Markdown-as-code
 
 **Quality**  
-pytest · TDD · SpecDriven Development
+pytest · TDD · Spec-Driven Development
 
 ---
 
 <div align="center">
   <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="123" alt="Baymax" style="margin-right: 15px;" />
 </div>
+
+<br />
 
 **Find me here:**
   
