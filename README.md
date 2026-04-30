@@ -15,10 +15,10 @@
 <!-- Global Authority Badges -->
 <div align="center">
     <a href="https://github.com/openai/openai-agents-python">
-      <img src="https://img.shields.io/badge/OpenAI%20Agents-Top%2010%20Contributor-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="20" alt="OpenAI Contributor" />
+      <img src="https://img.shields.io/badge/OpenAI%20Agents-Top%2010%20Contributor-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="33" alt="OpenAI Contributor" />
     </a><br />
-    <img src="https://img.shields.io/badge/Stanford%20CS336-Alumni-8C1515?style=for-the-badge&logo=stanford&logoColor=white" height="50" alt="Stanford Alumni" /><br />
-    <img src="https://img.shields.io/badge/NVIDIA%20Partner-Instructor-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="50" alt="NVIDIA Partner" />
+    <img src="https://img.shields.io/badge/Stanford%20CS336-Alumni-8C1515?style=for-the-badge&logo=stanford&logoColor=white" height="33" alt="Stanford Alumni" />
+    <img src="https://img.shields.io/badge/NVIDIA%20Partner-Instructor-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="33" alt="NVIDIA Partner" />
 </div>
 
 <br />
