@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/mshsheikh/assets/blob/33499506011d07fa2739cbbeec4170152502b15a/eva-green-red-fly-wall-e.gif?raw=true" height="200" alt="EVA Fly Life" />
+  <img src="https://github.com/mshsheikh/assets/blob/33499506011d07fa2739cbbeec4170152502b15a/eva-green-red-fly-wall-e.gif?raw=true" height="180" alt="EVA Fly Life" />
 </div>
 
 <div align="center">
@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/mshsheikh/assets/blob/82d6be6ae9939ce1f67fb12e9dcc4b745a1110c8/skills-n-tools.png" height="200" alt="Planetary Skills" />
+  <img src="https://github.com/mshsheikh/assets/blob/82d6be6ae9939ce1f67fb12e9dcc4b745a1110c8/skills-n-tools.png" height="150" alt="Planetary Skills" />
 </div>
 
 <br />
 <br />
 
 <div align="left">
-  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="132" alt="Baymax" style="margin-right: 15px;" />
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="123" alt="Baymax" style="margin-right: 15px;" />
 
 ---
 
@@ -22,7 +22,7 @@ Hi, I’m Salman
 
 I build and scale **cloud-native, production AI agents and LLM applications** for enterprise teams.
 My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and **AI governance**
-making sure systems are **safe, observable, reliable, and productionready**.
+making sure systems are **safe, observable, reliable, and production-ready**.
 
 
 Over the past year, I’ve:
@@ -37,14 +37,14 @@ Over the past year, I’ve:
 
 ## 🧠 What I Do
 
-I started my journey in **Karachi**, working with **WordPress, JavaScript, TypeScript, and Python**.  
-Today, I work as an **Agentic AI Engineer & Full-stack Developer at GIAIC**, designing autonomous, cloud-native systems using:
+I started my journey in **Karachi**, working with **WordPress**, **JavaScript**, **TypeScript**, and **Python**.  
+Today, I work as an **Agentic AI Engineer** & **Full-stack Developer** at **GIAIC**, designing autonomous, cloud-native systems using:
 
  **OpenAI GPT** & **OpenAI Agents SDK**
  **FastAPI**, **Dapr**, and **MCP Server (Context7)**
- Distributed training and fine tuning with **Ray** and **PyTorch**
+ Distributed training and fine-tuning with **Ray** and **PyTorch**
 
-I also consult with teams to turn AI concepts into **measurable, production outcomes** not demos.
+I also consult with teams to turn AI concepts into **measurable**, **production outcomes** not demos.
 
 
 
@@ -53,8 +53,8 @@ I also consult with teams to turn AI concepts into **measurable, production outc
  Design and implement **RAG pipelines** and **vector search**
  Work with **Qdrant** and **Pinecone**
  Build data backends using **PostgreSQL**, **NeonDB**, and **SQLModel**
- Ship **developer docs and portals** with **Docusaurus**
- Treat **Markdown as code**
+ Ship **developer docs** and **portals** with **Docusaurus**
+ Treat **Markdown-as-code**
 
 For agent UIs and integrations, I work with:
  **OpenAI ChatKit**
@@ -80,9 +80,9 @@ Every release includes:
 
 ## 🧪 Engineering Philosophy
 
- **TestDriven** & **SpecDriven Development**
- Guardrails for **safe and predictable RAG behavior**
- Strong emphasis on **governance, reliability, and maintainability**
+ **Test-Driven** & **Spec-Driven Development**
+ Guardrails for **safe** and **predictable RAG behavior**
+ Strong emphasis on **governance**, **reliability**, and **maintainability**
 
 I call this approach **M-Shaped Development**:
 > Deep AI/ML expertise combined with broad full-stack and cloud engineering skills.
@@ -91,7 +91,7 @@ I call this approach **M-Shaped Development**:
 
 ## 🏆 Selected Results
 
-Delivered **production agents and governed LLM applications** for:
+Delivered **production agents** and **governed LLM applications** for:
  Shell
  Unilever
  Carrefour
@@ -112,7 +112,7 @@ Outcomes included:
  Full-stack cloud development
  Short-term consulting engagements
 
-Let’s connect and build **practical, scalable AI systems** together.
+Let’s connect and build **practical**, **scalable AI systems** together.
 
 
 
