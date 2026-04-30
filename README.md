@@ -26,9 +26,9 @@
 
 Hi, I’m Salman
 
-I build and scale **cloud-native, production AI agents and LLM applications** for enterprise teams.
-My work focuses on **agentic AI**, **LLM applications**, **RAG workflows**, and **AI governance**
-making sure systems are **safe, observable, reliable, and production-ready**.
+I build and scale **cloud-native, production AI agents** and **LLM applications** for enterprise teams.
+My work focuses on **agentic AI**, **RAG workflows**, and **AI governance**,
+making sure systems are **safe**, **observable**, **reliable**, and **production-ready**.
 
 
 Over the past year, I’ve:
@@ -46,9 +46,9 @@ Over the past year, I’ve:
 I started my journey in **Karachi**, working with **WordPress**, **JavaScript**, **TypeScript**, and **Python**.  
 Today, I work as an **Agentic AI Engineer** & **Full-stack Developer** at **GIAIC**, designing autonomous, cloud-native systems using:
 
- **OpenAI GPT** & **OpenAI Agents SDK**
- **FastAPI**, **Dapr**, and **MCP Server (Context7)**
- Distributed training and fine-tuning with **Ray** and **PyTorch**
+ **OpenAI GPT** & **OpenAI Agents SDK**,
+ **FastAPI**, **Dapr**, and **MCP Server (Context7)**,
+ distributed training and fine-tuning with **Ray** and **PyTorch**
 
 I also consult with teams to turn AI concepts into **measurable**, **production outcomes** not demos.
 
@@ -56,14 +56,14 @@ I also consult with teams to turn AI concepts into **measurable**, **production 
 
 ## 🔍 RAG, Data & Knowledge Systems
 
- Design and implement **RAG pipelines** and **vector search**
- Work with **Qdrant** and **Pinecone**
- Build data backends using **PostgreSQL**, **NeonDB**, and **SQLModel**
- Ship **developer docs** and **portals** with **Docusaurus**
- Treat **Markdown-as-code**
+ Design and implement **RAG pipelines** and **vector search**,
+ work with **Qdrant** and **Pinecone**,
+ build data backends using **PostgreSQL**, **NeonDB**, and **SQLModel**,
+ ship **developer docs** and **portals** with **Docusaurus**,
+ and treat **Markdown-as-code**.
 
 For agent UIs and integrations, I work with:
- **OpenAI ChatKit**
+ **OpenAI ChatKit** &
  **Official MCP SDKs**
 
 
@@ -72,10 +72,10 @@ For agent UIs and integrations, I work with:
 
 I deploy and operate systems using:
 
- **Docker** & **Kubernetes**
- **Helm**, **Minikube**, **kubectl-ai**, and **kagent**
- **GitHub Actions**, **Terraform**, **DevContainers**, and **n8n**
- Costeffective production clusters on **DigitalOcean (DOKS)** when appropriate
+ **Docker** & **Kubernetes**,
+ **Helm**, **Minikube**, **kubectl-ai**, and **kagent**,
+ **GitHub Actions**, **Terraform**, **DevContainers**, and **n8n**, and run
+ costeffective production clusters on **DigitalOcean (DOKS)** when appropriate
 
 Every release includes:
  📊 Observability
@@ -86,8 +86,8 @@ Every release includes:
 
 ## 🧪 Engineering Philosophy
 
- **Test-Driven** & **Spec-Driven Development**
- Guardrails for **safe** and **predictable RAG behavior**
+ **Test-Driven** & **Spec-Driven Development**,
+ Guardrails for **safe** and **predictable RAG behavior**,
  Strong emphasis on **governance**, **reliability**, and **maintainability**
 
 I call this approach **M-Shaped Development**:
@@ -98,25 +98,26 @@ I call this approach **M-Shaped Development**:
 ## 🏆 Selected Results
 
 Delivered **production agents** and **governed LLM applications** for:
- Shell
- Unilever
- Carrefour
- HBL
+ Shell,
+ Unilever,
+ HBL,
+ and
+ Carrefour Pakistan.
 
 Outcomes included:
- Faster release cycles
- Shorter content update timelines
- Enterprise uptime targets
- Improved release velocity
+ Faster release cycles,
+ Shorter content update timelines,
+ Enterprise uptime targets,
+ and Improved release velocity
 
 
 
 ## 🤝 Open To
 
- AI Engineering roles
- MLOps roles
- Full-stack cloud development
- Short-term consulting engagements
+ AI Engineering roles,
+ MLOps roles,
+ Full-stack cloud development,
+ and short-term consulting engagements
 
 Let’s connect and build **practical**, **scalable AI systems** together.
 
