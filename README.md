@@ -143,6 +143,10 @@ pytest · TDD · Spec-Driven Development
 ---
 
 <div align="center">
+
+<div align="center">
+  <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" height="40" alt="Baymax" />
+</div>
   
 **Find me here:**
   
