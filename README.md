@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=200&color=008000&size=24&width=435&lines=Autonomous+Agentic+AI+Engineer;AI+Systems+Architect;Top+10+OpenAI+Agents+Contributor;Full-stack+Cloud-Native;Backend+Specialist" /><br />
+  <img src="https://readme-typing-svg.demolab.com?font=Arial+Code&pause=200&color=008000&size=24&width=435&lines=Autonomous+Agentic+AI+Sys.+Engr." /><br />
 </div>
 
 <div align="center">
@@ -15,10 +15,10 @@
 <!-- Global Authority Badges -->
 <div align="center">
     <a href="https://github.com/openai/openai-agents-python">
-      <img src="https://img.shields.io/badge/OpenAI%20Agents-Top%2010%20Contributor-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Contributor" />
+      <img src="https://img.shields.io/badge/OpenAI%20Agents-Top%2010%20Contributor-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="50" alt="OpenAI Contributor" />
     </a><br />
-    <img src="https://img.shields.io/badge/Stanford%20CS336-Alumni-8C1515?style=for-the-badge&logo=stanford&logoColor=white" alt="Stanford Alumni" /><br />
-    <img src="https://img.shields.io/badge/NVIDIA%20Partner-Instructor-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Partner" />
+    <img src="https://img.shields.io/badge/Stanford%20CS336-Alumni-8C1515?style=for-the-badge&logo=stanford&logoColor=white" height="50" alt="Stanford Alumni" /><br />
+    <img src="https://img.shields.io/badge/NVIDIA%20Partner-Instructor-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="50" alt="NVIDIA Partner" />
 </div>
 
 <br />
