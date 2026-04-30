@@ -56,9 +56,9 @@ I also consult with teams to turn AI concepts into **measurable**, **production 
 
 ## 🔍 RAG, Data & Knowledge Systems
 
- Design and implement **RAG pipelines** and **vector search**,
- work with **Qdrant** and **Pinecone**,
- build data backends using **PostgreSQL**, **NeonDB**, and **SQLModel**,
+ Design and implement **RAG pipelines** and **vector search**
+ work with **Qdrant** and **Pinecone**.
+ Build data backends using **PostgreSQL**, **NeonDB**, and **SQLModel**,
  ship **developer docs** and **portals** with **Docusaurus**,
  and treat **Markdown-as-code**.
 
@@ -74,8 +74,8 @@ I deploy and operate systems using:
 
  **Docker** & **Kubernetes**,
  **Helm**, **Minikube**, **kubectl-ai**, and **kagent**,
- **GitHub Actions**, **Terraform**, **DevContainers**, and **n8n**, and run
- costeffective production clusters on **DigitalOcean (DOKS)** when appropriate
+ **GitHub Actions**, **Terraform**, **DevContainers**, **n8n** and run
+ cost-effective production clusters on **DigitalOcean (DOKS)** when appropriate
 
 Every release includes:
  📊 Observability
@@ -88,7 +88,7 @@ Every release includes:
 
  **Test-Driven** & **Spec-Driven Development**,
  Guardrails for **safe** and **predictable RAG behavior**,
- Strong emphasis on **governance**, **reliability**, and **maintainability**
+ strong emphasis on **governance**, **reliability**, and **maintainability**
 
 I call this approach **M-Shaped Development**:
 > Deep AI/ML expertise combined with broad full-stack and cloud engineering skills.
@@ -106,9 +106,9 @@ Delivered **production agents** and **governed LLM applications** for:
 
 Outcomes included:
  Faster release cycles,
- Shorter content update timelines,
- Enterprise uptime targets,
- and Improved release velocity
+ shorter content update timelines,
+ enterprise uptime targets,
+ and improved release velocity
 
 
 
