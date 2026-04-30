@@ -40,7 +40,7 @@ Over the past year, I’ve:
   
   🟢 Maintained **99% uptime** in production environments
 
-![](https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=aura&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
+![](https://github-profile-trophy.vercel.app/?username=mshsheikh&theme=aura&no-frame=true&no-bg=true&margin-w=4&row=1&column=3)
 
 ## 🧠 What I Do
 
