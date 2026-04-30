@@ -142,7 +142,7 @@ pytest · TDD · Spec-Driven Development
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/mshsheikh/assets/blob/e6b9fc277540ee7413b5d2e9c80e4aa78710b9a0/baymax-kicking-football.gif?raw=true" align="left" height="123" alt="Baymax" style="margin-right: 15px;" />
 </div>
 
@@ -150,6 +150,7 @@ pytest · TDD · Spec-Driven Development
 <br />
 <br />
 
+<div align="left">
 **Find me here:**
   
   <a href="mailto:business.mshsheikh@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -168,4 +169,5 @@ pytest · TDD · Spec-Driven Development
     <img src="https://img.shields.io/badge/-ff0000?style=flat-square&logo=youtube&logoColor=white" height="42px" alt="YouTube" />
   </a>
 
+</div>
 </div>
