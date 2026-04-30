@@ -142,8 +142,6 @@ pytest · TDD · Spec-Driven Development
 
 ---
 
-<br />
-
 <div align="center">
   
 **Find me here:**
