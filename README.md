@@ -22,6 +22,10 @@
 
 <br />
 
+<img src="https://algora.io/og/user/mshsheikh" height="150" alt="Top 1% Python Engineers Globally - Algora"/>
+
+<br />
+
 ---
 
 Hi, I’m Salman
