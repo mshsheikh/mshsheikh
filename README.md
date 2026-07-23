@@ -23,7 +23,7 @@
 <br />
 
 <div align="center">
-  <img src="https://algora.io/og/user/mshsheikh" alt="Top 1% Python Engineers Globally - Algora"/>
+  <img src="https://algora.io/og/user/mshsheikh" height="150" alt="Top 1% Python Engineers Globally - Algora"/>
 </div>
 
 <br />
